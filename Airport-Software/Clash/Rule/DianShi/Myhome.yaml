@@ -11,11 +11,12 @@ payload:
   - DOMAIN,pub3cf.emby.wtf
   - DOMAIN,play.charontv.com
   - DOMAIN,emby.cn2gias.uk
-  - DOMAIN,embypuls.org
+  - DOMAIN,embyplus.org
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN,emby-micax-ca-v2.mius.uk
   - DOMAIN,emby-mica-us-v1.mius.uk
   - DOMAIN,robo.91ai.de
+  - DOMAIN,robo.668918.xyz
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
   - DOMAIN,pk.catchyoureye.top
@@ -27,3 +28,6 @@ payload:
   - DOMAIN,hka-emby.aliz.work
   - DOMAIN,hka-emby1.aliz.work  
   - DOMAIN,hka-emby2.aliz.work
+  - DOMAIN,emby3.mcjoker.xyz
+  - DOMAIN,oversea.alphatvapp.top
+  - DOMAIN,nanflix.net
