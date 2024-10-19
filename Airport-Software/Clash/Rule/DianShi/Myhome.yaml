@@ -11,7 +11,7 @@ payload:
   - DOMAIN,pub3cf.emby.wtf
   - DOMAIN,play.charontv.com
   - DOMAIN,emby.cn2gias.uk
-  - DOMAIN,embyplus.org
+  - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN,emby-micax-ca-v2.mius.uk
   - DOMAIN,emby-mica-us-v1.mius.uk
