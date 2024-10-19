@@ -11,7 +11,10 @@ payload:
   - DOMAIN,pub3cf.emby.wtf
   - DOMAIN,play.charontv.com
   - DOMAIN,emby.cn2gias.uk
+  # 纸片人
   - DOMAIN-SUFFIX,embyplus.org
+  - DOMAIN,chiremby.top
+  - DOMAIN,emby.029902.xyz 
   - DOMAIN,cdn.lyrebirdemby.com
   - DOMAIN,emby-micax-ca-v2.mius.uk
   - DOMAIN,emby-mica-us-v1.mius.uk
