@@ -1,7 +1,10 @@
 payload:
   # Author: Solaris-Starfire
+  # PiliPili
+  - DOMAIN,pilipili.misakaf.org
   - DOMAIN,pilipili.club
   - DOMAIN,css.pilipili.club
+  # 天南小筑
   - DOMAIN,nanflix.net
   - DOMAIN,pub1.emby.wtf
   - DOMAIN,pub2.emby.wtf
