@@ -40,4 +40,5 @@ payload:
   - DOMAIN,emby.1024.name
   # 飞跃彩虹
   - DOMAIN,581658.best
-  
+  # AWA
+  - DOMAIN,emby.awatv.de
