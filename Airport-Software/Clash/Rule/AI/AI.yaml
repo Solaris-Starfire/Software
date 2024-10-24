@@ -1,10 +1,9 @@
 payload:
-# ChatGPT
-AND, ((DOMAIN-KEYWORD, chatgpt-async-webps-prod-eastus-), (DOMAIN-SUFFIX, webpubsub.azure.com))
-AND, ((DOMAIN-KEYWORD, openaicom-api-), (DOMAIN-SUFFIX, azurefd.net))
 
-
-  - DOMAIN,openaicom-api.arkoselabs.com
+  # ChatGPT
+  - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN,openaicom.imgix.net
@@ -17,14 +16,14 @@ AND, ((DOMAIN-KEYWORD, openaicom-api-), (DOMAIN-SUFFIX, azurefd.net))
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 
-# Copilot
+  # Copilot
   - DOMAIN,api.githubcopilot.com
   - DOMAIN,copilot-proxy.githubusercontent.com
   - DOMAIN,copilot.microsoft.com
   - DOMAIN,sydney.bing.com
   - DOMAIN,www.bing.com
 
-# Gemini
+  # Gemini
   - DOMAIN,bard.google.com
   - DOMAIN,gemini.google.com
   - DOMAIN,generativelanguage.googleapis.com
@@ -34,13 +33,13 @@ AND, ((DOMAIN-KEYWORD, openaicom-api-), (DOMAIN-SUFFIX, azurefd.net))
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,makersuite.google.com
 
-# Claude
+  # Claude
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - IP-CIDR,160.79.104.0/23
   - IP-CIDR6,2607:6bc0::/48
 
-# JetBrains AI
+  # JetBrains AI
   - DOMAIN-SUFFIX,grazie.ai
   - DOMAIN-SUFFIX,grazie.aws.intellij.net
 
@@ -52,6 +51,6 @@ AND, ((DOMAIN-KEYWORD, openaicom-api-), (DOMAIN-SUFFIX, azurefd.net))
   - DOMAIN-SUFFIX,perplexity.ai
 
 # Mistral AI
-DOMAIN, chat.mistral.ai
-DOMAIN, console.mistral.ai
-DOMAIN-SUFFIX, mistral.ai
+  - DOMAIN,chat.mistral.ai
+  - DOMAIN,console.mistral.ai
+  - DOMAIN-SUFFIX,mistral.ai
