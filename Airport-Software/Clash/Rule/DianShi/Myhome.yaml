@@ -36,7 +36,7 @@ payload:
   - DOMAIN,emby.yomo.lol
   # Lily
   - DOMAIN,emby.lilyya.xyz
-  - DOMAIN,cndemby.lilyya.xyz
+  - DOMAIN,cdnemby.lilyya.xyz
   - DOMAIN,cfemby.lilyya.xyz
   - DOMAIN,embyhk.lilyya.xyz
   # 土拨鼠
@@ -64,5 +64,6 @@ payload:
   - DOMAIN,porn.aca.best
   - DOMAIN,stream4.misakaf.org
   - DOMAIN,alvhk.809688.xyz
-  
+  # Aopo
+  - DOMAIN,emby.apopcloud.live
   
