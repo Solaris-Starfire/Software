@@ -21,8 +21,6 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN,chirsemby.top
   - DOMAIN,emby.029902.xyz 
-  # 青鸟
-  - DOMAIN,cdn.lyrebirdemby.com
   # 牢大
   - DOMAIN,emby-micax-ca-v2.mius.uk
   - DOMAIN,emby-mica-us-v1.mius.uk
