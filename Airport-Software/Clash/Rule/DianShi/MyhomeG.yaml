@@ -58,5 +58,5 @@ payload:
   - DOMAIN,jsq.mooguu.top
   # 放映厅
   - DOMAIN,emby.9191001.xyz
-  
-  
+  # 探花TV
+  - DOMAIN,www.tanhuatv.site  
