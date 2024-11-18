@@ -40,7 +40,9 @@ payload:
   # AlphaTV
   - DOMAIN,oversea.alphatvapp.top
   # 呆瓜
-  - DOMAIN,emby.1024.name
+  - DOMAIN,1024.name
+  - DOMAIN,emby3.1024.name  
+  - DOMAIN,emby4.1024.name
   # 飞跃彩虹
   - DOMAIN,581658.best
   # 飞跃银河
