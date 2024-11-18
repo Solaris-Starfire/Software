@@ -13,5 +13,6 @@ payload:
   - DOMAIN,7777777.buzz
   # AWA
   - DOMAIN,emby.awatv.de
-
+  # 呆瓜
+  - DOMAIN,1.1024.name
   
