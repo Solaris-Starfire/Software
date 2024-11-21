@@ -57,8 +57,8 @@ payload:
   # Aopo
   - DOMAIN,emby.apopcloud.live
   # 见手青
-  - DOMAIN,jsq.mooguu.top
+  - DOMAIN,jsq.mooguu.xyz 
   # 放映厅
   - DOMAIN,emby.9191001.xyz
   # 探花TV
-  - DOMAIN,www.tanhuatv.site  
+  - DOMAIN,tanhuatv.site  
