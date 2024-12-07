@@ -16,4 +16,6 @@ payload:
   - DOMAIN,emby.awatv.de
   # 呆瓜
   - DOMAIN,1.1024.name
+  # PiliPili
+  - DOMAIN,pilipili.hitagi.me
   
