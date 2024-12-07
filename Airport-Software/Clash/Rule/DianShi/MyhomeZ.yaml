@@ -18,4 +18,6 @@ payload:
   - DOMAIN,1.1024.name
   # PiliPili
   - DOMAIN,pilipili.hitagi.me
+  # 见手青
+  - DOMAIN,jsq.mooguu.xyz 
   
