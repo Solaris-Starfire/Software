@@ -3,9 +3,7 @@ payload:
   # 青鸟
   - DOMAIN,cdn.lyrebirdemby.com
   # Robo
-  - DOMAIN,robo.668918.xyz
-  - DOMAIN,robo.656888.xyz
-  - DOMAIN,robo2.656888.xyz
+  - DOMAIN,vip.roboemby.de
   # Lily
   - DOMAIN,cdnemby.lilyya.xyz
   - DOMAIN,embyhk.lilyya.xyz
@@ -15,7 +13,7 @@ payload:
   # AWA
   - DOMAIN,emby.awatv.de
   # 呆瓜
-  - DOMAIN,1.1024.name
+  - DOMAIN,spare l.1024.name
   # PiliPili
   - DOMAIN,pilipili.hitagi.me
   # 见手青
