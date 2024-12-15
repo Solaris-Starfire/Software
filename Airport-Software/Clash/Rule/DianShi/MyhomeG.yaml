@@ -17,7 +17,7 @@ payload:
   # 卡戎
   - DOMAIN,play.charontv.com
   # 守候
-  - DOMAIN,emby.cn2gias.uk
+  - DOMAIN,ehk1.cn2gias.uk
   # 纸片人
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN,chirsemby.top
