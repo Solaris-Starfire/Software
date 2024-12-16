@@ -72,3 +72,6 @@ payload:
   - DOMAIN,cf.sfcj.org
   # 星云
   - DOMAIN,emby.nebula-media.org
+  # 月饼
+  - DOMAIN,emby.my
+  - DOMAIN,cdn.emby.my
