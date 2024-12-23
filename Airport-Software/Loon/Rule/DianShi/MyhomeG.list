@@ -74,4 +74,6 @@ DOMAIN,emby.nebula-media.org
 # 月饼
 DOMAIN,emby.my
 DOMAIN,cdn.emby.my
+# 极光
+DOMAIN,abc.auroramedia.vip
 
