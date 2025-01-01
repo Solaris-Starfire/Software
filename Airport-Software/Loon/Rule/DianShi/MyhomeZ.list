@@ -15,5 +15,8 @@ DOMAIN,jsq.mooguu.xyz
 # PiliPili
 DOMAIN,pilipili.hitagi.me
 # 起点站
-DOMAIN,192.168.35.111
+IP-CIDR,192.168.35.111
+# SIESTA Pro
+DOMAIN,ck.siepro.uk
+DOMAIN,ar.siepro.uk
   
