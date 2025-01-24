@@ -78,16 +78,16 @@ payload:
   # 极光
   - DOMAIN,abc.auroramedia.vip  
   # Julu
-  - DOMAIN,http://alist7.eu.org
-  - DOMAIN,https://july-hk.vfing.de
-  - DOMAIN,https://july-sg.vfing.de
-  - DOMAIN,https://july-us.vfing.de
+  - DOMAIN,alist7.eu.org
+  - DOMAIN,july-hk.vfing.de
+  - DOMAIN,july-sg.vfing.de
+  - DOMAIN,july-us.vfing.de
   # 鹅服
-  - DOMAIN,https://cavps.eu.org
-  - DOMAIN,http://50.114.55.29
-  - DOMAIN,http://wmxz.567996.xyz
-  - DOMAIN,https://emby.pppp.us.kg
-  - DOMAIN,http://141.11.175.105
-  - DOMAIN,https://emby-e-hk.pppp.us.kg
-  - DOMAIN,https://emby-e-jp.pppp.us.kg
+  - DOMAIN,cavps.eu.org
+  - DOMAIN,50.114.55.29
+  - DOMAIN,wmxz.567996.xyz
+  - DOMAIN,emby.pppp.us.kg
+  - DOMAIN,141.11.175.105
+  - DOMAIN,emby-e-hk.pppp.us.kg
+  - DOMAIN,emby-e-jp.pppp.us.kg
 
