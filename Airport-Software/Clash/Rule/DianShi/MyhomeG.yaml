@@ -102,4 +102,6 @@ payload:
   - DOMAIN,lite.saturday.video
   # 1111
   - DOMAIN,new.emby.moe
+  - DOMAIN,cfloacl.emby.moe
+  
 
