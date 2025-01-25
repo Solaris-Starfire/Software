@@ -100,3 +100,6 @@ payload:
   - DOMAIN,n02.abcj.uk
   # Saturday.lite
   - DOMAIN,lite.saturday.video
+  # 1111
+  - DOMAIN,new.emby.moe
+
