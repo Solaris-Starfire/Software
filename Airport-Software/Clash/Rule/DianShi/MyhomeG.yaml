@@ -98,3 +98,5 @@ payload:
   - DOMAIN,d04.abcj.uk
   - DOMAIN,n01.abcj.uk
   - DOMAIN,n02.abcj.uk
+  # Saturday.lite
+  - DOMAIN,lite.saturday.video
