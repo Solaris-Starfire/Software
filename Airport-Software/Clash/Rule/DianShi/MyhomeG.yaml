@@ -74,5 +74,13 @@ payload:
   - DOMAIN,misty.cx
   # 飞跃地平线(69云)
   - DOMAIN,emby.69yun69.com
+  # 二次元
+  - DOMAIN,media.nijigem.by
+  - DOMAIN,default.cdn.bgp.yt
+  - DOMAIN,ct.cdn.bgp.yt
+  - DOMAIN,us-w.cdn.bgp.yt
+  - DOMAIN,cu.cdn.bgp.yt
+  # nyamedia
+  - DOMAIN,emby.bangumi.ca
   
 
