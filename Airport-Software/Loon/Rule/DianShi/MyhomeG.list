@@ -90,12 +90,12 @@ DOMAIN,2pfdml.mobaiemby.site
 DOMAIN,emby.jingzhe.pro
 # 鹅服
 DOMAIN,cavps.eu.org
-SG: http://50.114.55.29:10010
 DOMAIN,wmxz.567996.xyz
-HK: http://156.224.77.145:10010
 DOMAIN,e-hk-1.vfing.de
 DOMAIN,e-hk-2.vfing.de
-US: http://156.229.165.55:10010
 DOMAIN,e-us.vfing.de
 DOMAIN,e-jp.vfing.de
 DOMAIN,e-jp-2.vfing.de
+IP-CIDR,50.114.55.29/32
+IP-CIDR,156.224.77.145/32
+IP-CIDR,156.229.165.55/32
