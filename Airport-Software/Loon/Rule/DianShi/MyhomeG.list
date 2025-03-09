@@ -30,9 +30,7 @@ DOMAIN,cf.lilyemby.my
 DOMAIN,emby3.mcjoker.xyz
 # AlphaTV
 # 呆瓜
-DOMAIN,1024.name
-DOMAIN,sjc.1024.name  
-DOMAIN,seoul.1024.name
+DOMAIN-KEYWORD,1024.name
 DOMAIN,daigua.j8.work
 # 飞跃彩虹
 DOMAIN,581658.best
@@ -45,18 +43,11 @@ DOMAIN,emby.9191001.xyz
 # 探花TV
 DOMAIN,tanhuatv.site  
 # 非越
-DOMAIN,z.sfcj.org
-DOMAIN,jg.sfcj.org
-DOMAIN,ju.sfcj.org
-DOMAIN,jg6.sfcj.org
-DOMAIN,v6.sfcj.org
-DOMAIN,cf.sfcj.org
+DOMAIN-KEYWORD,sfcj.org
 # 星云
 DOMAIN,emby.nebula-media.org
 # 月饼
-DOMAIN,a.emby.my
-DOMAIN,b.emby.my
-DOMAIN,c.emby.my
+DOMAIN-KEYWORD,emby.my
 # 极光
 DOMAIN,ad.auroramedia.vip
 # 起点站(公益)
@@ -68,12 +59,7 @@ DOMAIN,qdz-hk-1.vfing.de
 DOMAIN,cdn.qzuie.top
 DOMAIN,yd.28.al
 # SIESTA
-DOMAIN,d01.abcj.uk
-DOMAIN,d02.abcj.uk
-DOMAIN,d03.abcj.uk
-DOMAIN,d04.abcj.uk
-DOMAIN,n01.abcj.uk
-DOMAIN,n02.abcj.uk
+DOMAIN-KEYWORD,abcj.uk
 # 光环
 # Misty
 DOMAIN,misty.cx
@@ -88,11 +74,7 @@ DOMAIN-KEYWORD,jingzhe.pro
 # 鹅服
 DOMAIN,cavps.eu.org
 DOMAIN,wmxz.567996.xyz
-DOMAIN,e-hk-1.vfing.de
-DOMAIN,e-hk-2.vfing.de
-DOMAIN,e-us.vfing.de
-DOMAIN,e-jp.vfing.de
-DOMAIN,e-jp-2.vfing.de
+DOMAIN-KEYWORD,vfing.de
 IP-CIDR,50.114.55.29/32
 IP-CIDR,156.224.77.145/32
 IP-CIDR,156.229.165.55/32
