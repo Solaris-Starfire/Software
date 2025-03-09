@@ -1,6 +1,6 @@
 # Author: Solaris-Starfire
 # PiliPili
-DOMAIN-KEYWORD,pilipiliultra.com
+DOMAIN-SUFFIX,pilipiliultra.com
 # 天南小筑
 DOMAIN,us.nanflix.net
 # 终点站
@@ -17,6 +17,7 @@ DOMAIN,emby.cn2gias.uk
 DOMAIN,ehk1.cn2gias.uk
 # 纸片人
 DOMAIN-SUFFIX,embyplus.org
+DOMAIN,gd.9521732.xyz
 DOMAIN,chirsemby.top
 DOMAIN,emby.029902.xyz 
 # 牢大
@@ -31,24 +32,24 @@ DOMAIN,cf.lilyemby.my
 DOMAIN,emby3.mcjoker.xyz
 # AlphaTV
 # 呆瓜
-DOMAIN-KEYWORD,1024.name
+DOMAIN-SUFFIX,1024.name
 DOMAIN,daigua.j8.work
 # 飞跃彩虹
 DOMAIN,581658.best
 # 飞跃银河
 DOMAIN,yhemby.top
 # Peach
-DOMAIN-KEYWORD,embymv.link
+DOMAIN-SUFFIX,embymv.link
 # 放映厅
 DOMAIN,emby.9191001.xyz
 # 探花TV
 DOMAIN,tanhuatv.site  
 # 非越
-DOMAIN-KEYWORD,sfcj.org
+DOMAIN-SUFFIX,sfcj.org
 # 星云
-DOMAIN-KEYWORD,nebula-media.org
+DOMAIN-SUFFIX,nebula-media.org
 # 月饼
-DOMAIN-KEYWORD,emby.my
+DOMAIN-SUFFIX,emby.my
 # 极光
 DOMAIN,ad.auroramedia.vip
 # 起点站(公益)
@@ -60,7 +61,7 @@ DOMAIN,qdz-hk-1.vfing.de
 DOMAIN,cdn.qzuie.top
 DOMAIN,yd.28.al
 # SIESTA
-DOMAIN-KEYWORD,abcj.uk
+DOMAIN-SUFFIX,abcj.uk
 # 光环
 # Misty
 DOMAIN,misty.cx
@@ -71,11 +72,11 @@ DOMAIN,lite.saturday.video
 # 墨云阁
 DOMAIN,2pfdml.mobaiemby.site
 # 惊蛰
-DOMAIN-KEYWORD,jingzhe.pro
+DOMAIN-SUFFIX,jingzhe.pro
 # 鹅服
 DOMAIN,cavps.eu.org
 DOMAIN,wmxz.567996.xyz
-DOMAIN-KEYWORD,vfing.de
+DOMAIN-SUFFIX,vfing.de
 IP-CIDR,50.114.55.29/32
 IP-CIDR,156.224.77.145/32
 IP-CIDR,156.229.165.55/32
