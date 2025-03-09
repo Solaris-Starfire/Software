@@ -4,12 +4,8 @@ DOMAIN-SUFFIX,pilipiliultra.com
 # 天南小筑
 DOMAIN,us.nanflix.net
 # 终点站
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN,pub1.term.wtf
-DOMAIN,pub2.term.wtf
-DOMAIN,pub3.term.wtf
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
 # 卡戎
 DOMAIN,play.charontv.com
 # 守候
