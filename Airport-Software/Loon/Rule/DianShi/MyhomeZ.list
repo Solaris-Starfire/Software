@@ -3,20 +3,22 @@
 DOMAIN,cdn.lyrebirdemby.com
 # Robo
 DOMAIN,vip.roboemby.de
+DOMAIN,robo.616626.xyz
 # Lily
-DOMAIN,cemby.lilyya.xyz
+DOMAIN,hk.lilyemby.my
+DOMAIN,jp.lilyemby.my
 # 飞跃彩虹
 DOMAIN,7777777.buzz
-DOMAIN,cdn.7777777.buzz
-# AWA
-DOMAIN,emby.awatv.de
+IP-CIDR,193.122.114.13/32
 # 见手青
 DOMAIN,jsq.mooguu.xyz
-# PiliPili
-DOMAIN,pilipili.hitagi.me
-# 起点站
-IP-CIDR,192.168.35.111
 # SIESTA Pro
 DOMAIN,ck.siepro.uk
 DOMAIN,ar.siepro.uk
-  
+# Yomo
+DOMAIN,emby.yomo.lol
+# 鹅服
+IP-CIDR,156.231.113.41/32
+IP-CIDR,156.231.113.243/32
+IP-CIDR,45.192.249.167/32
+IP-CIDR,43.143.248.18/32
