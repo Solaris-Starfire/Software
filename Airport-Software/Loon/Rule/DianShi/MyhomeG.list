@@ -78,6 +78,8 @@ IP-CIDR,156.224.77.145/32
 IP-CIDR,156.229.165.55/32
 # 飞跃地平线(69云)
 DOMAIN,emby.69yun69.com
+DOMAIN,emby2.69yun69.com
+DOMAIN,emby3.69yun69.com
 # RecMata
 DOMAIN,flick.recmata.net
 DOMAIN,lumini.recmata.net
