@@ -82,5 +82,7 @@ payload:
   - DOMAIN,cu.cdn.bgp.yt
   # nyamedia
   - DOMAIN,emby.bangumi.ca
+  # Levilde Luminia
+  - DOMAIN,eggtartemby.itsmyduty.top
   
 
