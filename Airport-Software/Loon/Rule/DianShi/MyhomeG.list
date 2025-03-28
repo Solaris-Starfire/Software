@@ -90,6 +90,7 @@ DOMAIN,global-endpoint.anisaga.tv
 DOMAIN,emby.1l1.icu
 # 稳健
 DOMAIN,emby.wenjian.de
+DOMAIN-SUFFIX,sharepoint.com
 
 
 
