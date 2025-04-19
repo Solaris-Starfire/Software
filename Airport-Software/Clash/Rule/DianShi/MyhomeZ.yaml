@@ -18,8 +18,5 @@ payload:
   - DOMAIN,ar.siepro.uk
   # Yomo
   - DOMAIN,emby.yomo.lol
-  # 鹅服
-  - IP-CIDR,156.231.113.41/32
-  - IP-CIDR,156.231.113.243/32
-  - IP-CIDR,45.192.249.167/32
-  - IP-CIDR,43.143.248.18/32
+  # 入机
+  - DOMAIN,rbswyh.xytx.dpdns.org
