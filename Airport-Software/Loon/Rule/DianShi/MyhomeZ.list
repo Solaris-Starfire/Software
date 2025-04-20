@@ -4,6 +4,7 @@ DOMAIN,cdn.lyrebirdemby.com
 # Robo
 DOMAIN,vip.roboemby.de
 DOMAIN,robo.616626.xyz
+DOMAIN,kan.roboemby.de
 # Lily
 DOMAIN,hk.lilyemby.my
 DOMAIN,jp.lilyemby.my
@@ -17,6 +18,8 @@ DOMAIN,ck.siepro.uk
 DOMAIN,ar.siepro.uk
 # Yomo
 DOMAIN,emby.yomo.lol
+# 天南小筑
+DOMAIN,us.nanflix.net
 # 鹅服
 IP-CIDR,156.231.113.41/32
 IP-CIDR,156.231.113.243/32
