@@ -10,7 +10,6 @@ payload:
   - DOMAIN,jp.lilyemby.my
   # 飞跃彩虹
   - DOMAIN,7777777.buzz
-  - IP-CIDR,193.122.114.13/32
   # 见手青
   - DOMAIN,jsq.mooguu.xyz 
   # SIESTA Pro
