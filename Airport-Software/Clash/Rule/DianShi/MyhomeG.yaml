@@ -29,6 +29,7 @@ payload:
   - DOMAIN,daigua.j8.work
   # 飞跃彩虹
   - DOMAIN,581658.best
+  - IP-CIDR,193.122.114.13/32
   # 飞跃银河
   - DOMAIN,yhemby.top
   # Peach
