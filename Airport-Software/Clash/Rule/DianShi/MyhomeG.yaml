@@ -91,3 +91,18 @@ payload:
   - DOMAIN,emby.1l1.icu
   # 入机
   - DOMAIN-SUFFIX,xytx.dpdns.org
+  # 稳健
+  - DOMAIN,emby.wenjian.de
+  - DOMAIN-SUFFIX,sharepoint.com
+  # YounoEmny
+  - DOMAIN-SUFFIX,younoyes.com
+  # Coco
+  - DOMAIN,www.259772.xyz
+  # Paul
+  - DOMAIN,cf.imetyou.top
+  # kiku
+  - DOMAIN,emby.ucloudhost.top
+  # Pornemby
+  - DOMAIN,pornemby.com
+  # 影迹
+  - DOMAIN,emby1.123456789.lol
