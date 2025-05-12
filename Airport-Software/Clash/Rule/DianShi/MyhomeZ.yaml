@@ -19,3 +19,6 @@ payload:
   - DOMAIN,emby.yomo.lol
   # 影迹
   - IP-CIDR,129.146.108.37/32
+  # Youno
+  - DOMAIN,jp.younoyes.com
+  - DOMAIN,us.younoyes.com
