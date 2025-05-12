@@ -24,3 +24,6 @@ IP-CIDR,45.192.249.167/32
 IP-CIDR,43.143.248.18/32
 # 影迹
 IP-CIDR,129.146.108.37/32
+# Youno
+DOMAIN,jp.younoyes.com
+DOMAIN,us.younoyes.com
