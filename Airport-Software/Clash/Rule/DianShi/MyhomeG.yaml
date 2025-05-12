@@ -2,6 +2,9 @@ payload:
   # Author: Solaris-Starfire
   # PiliPili
   - DOMAIN-SUFFIX,pilipiliultra.com
+  - DOMAIN,pili.994959.xyz
+  - DOMAIN,caddy.pilipili.me
+  - DOMAIN,vn.pili.im
   # 天南小筑
   - DOMAIN,us.nanflix.net  
   # 终点站
