@@ -95,7 +95,7 @@ payload:
   - DOMAIN,emby.wenjian.de
   - DOMAIN-SUFFIX,sharepoint.com
   # YounoEmny
-  - DOMAIN-SUFFIX,younoyes.com
+  - DOMAIN,emby.younoyes.com
   # Coco
   - DOMAIN,www.259772.xyz
   # Paul
