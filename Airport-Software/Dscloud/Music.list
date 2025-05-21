@@ -4,3 +4,5 @@ DOMAIN,vip.nangua.de
 DOMAIN,music.xxxh.de
 # 未响
 DOMAIN,music.mefun.org
+# 飞跃音乐
+IP-CIDR,115.231.235.49/32
