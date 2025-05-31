@@ -70,8 +70,6 @@ payload:
   - DOMAIN,eggtartemby.itsmyduty.top
   # AniSaga
   - DOMAIN,global-endpoint.anisaga.tv
-  # PrejuDice
-  - DOMAIN,emby.1l1.icu
   # 入机
   - DOMAIN-SUFFIX,xytx.org
   - DOMAIN-SUFFIX,rjf37.com
