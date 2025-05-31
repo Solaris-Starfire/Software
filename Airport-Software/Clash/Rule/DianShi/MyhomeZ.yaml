@@ -1,7 +1,5 @@
 payload:
   # Author: Solaris-Starfire
-  # 青鸟
-  - DOMAIN,cdn.lyrebirdemby.com
   # Robo
   - DOMAIN,vip.roboemby.de
   - DOMAIN,robo.616626.xyz
