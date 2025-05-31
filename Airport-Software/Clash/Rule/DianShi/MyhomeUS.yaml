@@ -7,3 +7,6 @@ payload:
   - DOMAIN,myg.mobaiemby.site
   # 天南小筑
   - DOMAIN,us.nanflix.net
+  # Ask(服务器在DE)
+  - DOMAIN,emby.711.lol
+  - DOMAIN,media2.asubaka.de
