@@ -5,8 +5,6 @@ payload:
   - DOMAIN,pili.994959.xyz
   - DOMAIN,caddy.pilipili.me
   - DOMAIN,vn.pili.im
-  # 天南小筑
-  - DOMAIN,us.nanflix.net  
   # 终点站
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,term.wtf
@@ -59,13 +57,6 @@ payload:
   - DOMAIN,hka-emby3.aliz.work
   # 惊蛰
   - DOMAIN-SUFFIX,jingzhe.pro
-  # 鹅服
-  - DOMAIN,cavps.eu.org
-  - DOMAIN,wmxz.567996.xyz
-  - DOMAIN-SUFFIX,vfing.de
-  - IP-CIDR,50.114.55.29/32
-  - IP-CIDR,156.224.77.145/32
-  - IP-CIDR,156.229.165.55/32
   # SIESTA PRO
   - DOMAIN-SUFFIX,abcj.uk
   # Saturday.lite
