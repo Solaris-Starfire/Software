@@ -45,13 +45,6 @@ DOMAIN-SUFFIX,emby.my
 DOMAIN,ad.auroramedia.vip
 # 起点站(公益)
 DOMAIN,free.28.al
-# 起点站(付费)
-DOMAIN,nb.28.al
-DOMAIN,favoritewife.com
-DOMAIN,qdz-hk-0.vfing.de
-DOMAIN,qdz-hk-1.vfing.de
-DOMAIN,cdn.qzuie.top
-DOMAIN,yd.28.al
 # SIESTA
 DOMAIN-SUFFIX,abcj.uk
 # 光环
@@ -66,7 +59,6 @@ DOMAIN-SUFFIX,jingzhe.pro
 # 飞跃地平线(69云)
 DOMAIN,emby.69yun69.com
 DOMAIN,emby2.69yun69.com
-DOMAIN,emby3.69yun69.com
 # AniSaga
 DOMAIN,global-endpoint.anisaga.tv
 # 稳健
@@ -93,8 +85,6 @@ DOMAIN,emby2.9900990.buzz
 # MaYao
 DOMAIN,frre.me
 DOMAIN-SUFFIX,cat-eye.top
-# 天南小筑（推荐us or de）
-DOMAIN,us.nanflix.net
 # 见手青
 DOMAIN,jsq.mooguu.xyz
 
