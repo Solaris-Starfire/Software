@@ -47,12 +47,6 @@ payload:
   - DOMAIN,ad.auroramedia.vip  
   # 起点站(公益)
   - DOMAIN,free.28.al
-  # 起点站(付费)
-  - DOMAIN,favoritewife.com
-  - DOMAIN,qdz-hk-0.vfing.de
-  - DOMAIN,qdz-hk-1.vfing.de
-  - DOMAIN,cdn.qzuie.top
-  - DOMAIN,yd.28.al
   # Hka
   - DOMAIN,hka-emby3.aliz.work
   # 惊蛰
@@ -80,8 +74,8 @@ payload:
   # PrejuDice
   - DOMAIN,emby.1l1.icu
   # 入机
-  - DOMAIN,hkdg.998903.xyz
-  - DOMAIN-SUFFIX,rjemby.com
+  - DOMAIN-SUFFIX,xytx.org
+  - DOMAIN-SUFFIX,rjf37.com
   # 稳健
   - DOMAIN,emby.wenjian.de
   - DOMAIN-SUFFIX,sharepoint.com
