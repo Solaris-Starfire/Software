@@ -12,8 +12,6 @@ payload:
   - DOMAIN-SUFFIX,term.wtf
   # 卡戎
   - DOMAIN,play.charontv.com
-  # 守候
-  - DOMAIN,emby.cn2gias.uk
   # 纸片人
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN,gd.9521732.xyz
@@ -72,8 +70,6 @@ payload:
   - DOMAIN-SUFFIX,abcj.uk
   # Saturday.lite
   - DOMAIN,lite.saturday.video
-  # 墨白阁
-  - DOMAIN,myg.mobaiemby.site
   # Misty
   - DOMAIN,misty.cx
   # 飞跃地平线(69云)
