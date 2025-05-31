@@ -6,9 +6,6 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
 # 卡戎
 DOMAIN,play.charontv.com
-# 守候
-DOMAIN,emby.cn2gias.uk
-DOMAIN,ehk1.cn2gias.uk
 # 纸片人
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN,gd.9521732.xyz
@@ -65,8 +62,6 @@ DOMAIN,misty.cx
 DOMAIN,hka-emby3.aliz.work
 # SaturDayLite
 DOMAIN,lite.saturdayvideo.top
-# 墨云阁
-DOMAIN,myg.mobaiemby.site
 # 惊蛰
 DOMAIN-SUFFIX,jingzhe.pro
 # 鹅服
@@ -80,14 +75,8 @@ IP-CIDR,156.229.165.55/32
 DOMAIN,emby.69yun69.com
 DOMAIN,emby2.69yun69.com
 DOMAIN,emby3.69yun69.com
-# RecMata
-DOMAIN,flick.recmata.net
-DOMAIN,lumini.recmata.net
-DOMAIN,vision.recmata.net
 # AniSaga
 DOMAIN,global-endpoint.anisaga.tv
-# PrejuDice
-DOMAIN,emby.1l1.icu
 # 稳健
 DOMAIN,emby.wenjian.de
 DOMAIN-SUFFIX,sharepoint.com
