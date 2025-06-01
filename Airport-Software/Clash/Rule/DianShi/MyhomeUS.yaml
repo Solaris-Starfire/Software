@@ -14,3 +14,5 @@ payload:
   - DOMAIN,emby3.69yun69.com
   # 飞了个喵
   - DOMAIN,gy.meowfly.de
+  # 飞跃彩虹
+  - IP-CIDR,193.122.114.13/32
