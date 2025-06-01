@@ -16,3 +16,15 @@ payload:
   - DOMAIN,gy.meowfly.de
   # 飞跃彩虹
   - IP-CIDR,193.122.114.13/32
+  # 见手青
+  - DOMAIN,jsq.mooguu.xyz
+  # 青鸟
+  - DOMAIN,cdn.lyrebirdemby.com
+  # Misty
+  - DOMAIN,misty.cx
+  # 起点站(公益)
+  - DOMAIN,free.28.al
+  # 星云
+  - DOMAIN-SUFFIX,nebula-media.org
+  # 呆瓜
+  - DOMAIN-SUFFIX,chilledmelon.com
