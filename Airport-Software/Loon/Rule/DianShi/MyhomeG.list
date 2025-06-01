@@ -70,6 +70,12 @@ DOMAIN-SUFFIX,cat-eye.top
 DOMAIN,pieclip.okbap.com
 # 临镜
 DOMAIN,emby.liminalnet.com
+# 非越
+DOMAIN-SUFFIX,sfcj.org
+# CC
+DOMAIN,cc.coemn.com
+DOMAIN,cc.embycc.link
+DOMAIN,dx1.carryz.net
 
 
 
