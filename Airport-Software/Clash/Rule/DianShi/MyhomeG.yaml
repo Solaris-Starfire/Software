@@ -85,5 +85,7 @@ payload:
   - DOMAIN,pieclip.okbap.com
   # 临镜
   - DOMAIN,emby.liminalnet.com
+  # 无界
+  - DOMAIN,emby.mjji.de
 
 
