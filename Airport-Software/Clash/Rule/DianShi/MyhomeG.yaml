@@ -87,5 +87,7 @@ payload:
   - DOMAIN,emby.liminalnet.com
   # 无界
   - DOMAIN,emby.mjji.de
+  # SWIFT
+  - DOMAIN,emby.swiftnet.wiki
 
 
