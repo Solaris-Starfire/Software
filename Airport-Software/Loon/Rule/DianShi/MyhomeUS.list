@@ -17,8 +17,6 @@ DOMAIN,gy.meowfly.de
 IP-CIDR,193.122.114.13/32
 # 见手青(德国)
 DOMAIN,jsq.mooguu.xyz
-# 非越
-DOMAIN-SUFFIX,sfcj.org
 # 星云
 DOMAIN-SUFFIX,nebula-media.org
 # 呆瓜
