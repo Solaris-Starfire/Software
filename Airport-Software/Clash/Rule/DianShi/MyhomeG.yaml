@@ -23,8 +23,6 @@ payload:
   - DOMAIN,cf.lilyemby.my
   # 叔服
   - DOMAIN,emby3.mcjoker.xyz
-  # 呆瓜
-  - DOMAIN-SUFFIX,chilledmelon.com
   # 飞跃银河
   - DOMAIN,yhemby.top
   # Peach
@@ -35,14 +33,10 @@ payload:
   - DOMAIN,tanhuatv.site  
   # 非越
   - DOMAIN-SUFFIX,sfcj.org
-  # 星云
-  - DOMAIN-SUFFIX,nebula-media.org
   # 月饼
   - DOMAIN-SUFFIX,emby.my
   # 极光
   - DOMAIN,ad.auroramedia.vip  
-  # 起点站(公益)
-  - DOMAIN,free.28.al
   # Hka
   - DOMAIN,hka-emby3.aliz.work
   # 惊蛰
@@ -51,8 +45,6 @@ payload:
   - DOMAIN-SUFFIX,abcj.uk
   # Saturday.lite
   - DOMAIN,lite.saturday.video
-  # Misty
-  - DOMAIN,misty.cx
   # 飞跃地平线(69云)
   - DOMAIN,emby.69yun69.com
   # 二次元
@@ -89,10 +81,6 @@ payload:
   # MaYao
   - DOMAIN,frre.me
   - DOMAIN-SUFFIX,cat-eye.top
-  # 见手青
-  - DOMAIN,jsq.mooguu.xyz
-  # 青鸟
-  - DOMAIN,cdn.lyrebirdemby.com
   # 片刻解说影视
   - DOMAIN,pieclip.okbap.com
   # 临镜
