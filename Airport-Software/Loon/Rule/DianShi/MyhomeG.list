@@ -12,18 +12,12 @@ DOMAIN,gd.9521732.xyz
 DOMAIN,chirsemby.top
 DOMAIN,emby.029902.xyz 
 # 牢大
-# CC
-DOMAIN,cc.coemn.com
-DOMAIN,cc.embycc.link
-DOMAIN,dx1.carryz.net
 # Lily
 DOMAIN,cf.lilyemby.my
 # 土拨鼠
 # 叔服
 DOMAIN,emby3.mcjoker.xyz
 # AlphaTV
-# 呆瓜
-DOMAIN-SUFFIX,chilledmelon.com
 # 飞跃银河
 DOMAIN,yhemby.top
 # Peach
@@ -32,25 +26,15 @@ DOMAIN-SUFFIX,embymv.link
 DOMAIN,emby.9191001.xyz
 # 探花TV
 DOMAIN,tanhuatv.site  
-# 非越
-DOMAIN-SUFFIX,sfcj.org
-# 星云
-DOMAIN-SUFFIX,nebula-media.org
 # 月饼
 DOMAIN-SUFFIX,emby.my
 # 极光
 DOMAIN,ad.auroramedia.vip
-# 起点站(公益)
-DOMAIN,free.28.al
 # SIESTA
 DOMAIN-SUFFIX,abcj.uk
 # 光环
-# Misty
-DOMAIN,misty.cx
 # Hka
 DOMAIN,hka-emby3.aliz.work
-# SaturDayLite
-DOMAIN,lite.saturdayvideo.top
 # 惊蛰
 DOMAIN-SUFFIX,jingzhe.pro
 # 飞跃地平线(69云)
@@ -82,8 +66,6 @@ DOMAIN,emby2.9900990.buzz
 # MaYao
 DOMAIN,frre.me
 DOMAIN-SUFFIX,cat-eye.top
-# 见手青
-DOMAIN,jsq.mooguu.xyz
 # 片刻解说影视
 DOMAIN,pieclip.okbap.com
 # 临镜
