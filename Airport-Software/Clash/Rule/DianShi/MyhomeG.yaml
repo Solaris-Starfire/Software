@@ -96,5 +96,9 @@ payload:
   - DOMAIN,jsq.mooguu.xyz
   # 青鸟
   - DOMAIN,cdn.lyrebirdemby.com
+  # 片刻解说影视
+  - DOMAIN,pieclip.okbap.com
+  # 临镜
+  - DOMAIN,emby.liminalnet.com
 
 
