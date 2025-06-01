@@ -3,6 +3,7 @@ payload:
   # Robo
   - DOMAIN,vip.roboemby.de
   - DOMAIN,robo.616626.xyz
+  - DOMAIN,kan.roboemby.de
   # Lily
   - DOMAIN,hk.lilyemby.my
   - DOMAIN,jp.lilyemby.my
