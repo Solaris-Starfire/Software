@@ -89,5 +89,7 @@ payload:
   - DOMAIN,emby.mjji.de
   # SWIFT
   - DOMAIN,emby.swiftnet.wiki
+  # 青瓦
+  - DOMAIN,emby.bluetile.cloud
 
 
