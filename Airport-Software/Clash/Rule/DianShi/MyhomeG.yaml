@@ -91,5 +91,7 @@ payload:
   - DOMAIN,emby.swiftnet.wiki
   # 青瓦
   - DOMAIN,emby.bluetile.cloud
+  # 105
+  - DOMAIN,ciallo.party
 
 
