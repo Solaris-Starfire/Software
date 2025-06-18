@@ -91,5 +91,7 @@ payload:
   - DOMAIN,emby.bluetile.cloud
   # 105
   - DOMAIN,ciallo.party
+  # nyamedia
+  - DOMAIN,emby.bangumi.ca
 
 
