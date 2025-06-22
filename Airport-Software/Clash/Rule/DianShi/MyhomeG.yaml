@@ -93,5 +93,8 @@ payload:
   - DOMAIN,ciallo.party
   # nyamedia
   - DOMAIN,emby.bangumi.ca
+  # Onyra
+  - DOMAIN,bps8m.onyra.cc
+
 
 
