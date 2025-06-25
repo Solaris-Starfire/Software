@@ -47,6 +47,7 @@ payload:
   - DOMAIN,lite.saturdayvideo.top
   # 飞跃地平线(69云)
   - DOMAIN,emby.69yun69.com
+  - DOMAIN,emby1.69yun69.com
   # 二次元
   - DOMAIN,media.nijigem.by
   - DOMAIN,default.cdn.bgp.yt
