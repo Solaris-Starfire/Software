@@ -9,8 +9,6 @@ DOMAIN,jp.lilyemby.my
 # SIESTA Pro
 DOMAIN,ck.siepro.uk
 DOMAIN,ar.siepro.uk
-# Yomo
-DOMAIN,emby.yomo.lol
 # 影迹
 IP-CIDR,129.146.108.37/32
 # Youno
