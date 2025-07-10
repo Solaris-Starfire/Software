@@ -18,7 +18,7 @@ payload:
   # CC
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
-  - DOMAIN,dx1.carryz.net
+  - DOMAIN-SUFFIX.carryz.net
   # Lily
   - DOMAIN,cf.lilyemby.my
   # 叔服
