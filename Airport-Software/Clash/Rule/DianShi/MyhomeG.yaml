@@ -99,6 +99,7 @@ payload:
   - DOMAIN,stream.onyra.uk
   # 硬看
   - DOMAIN,sgsharon.cancanbi.com
-
+  # 云海
+  - DOMAIN,emby.oceancloud.asia
 
 
