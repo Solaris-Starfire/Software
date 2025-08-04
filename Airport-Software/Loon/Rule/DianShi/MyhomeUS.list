@@ -4,8 +4,6 @@ DOMAIN,m.mobaiemby.site
 # 守候
 DOMAIN,emby.cn2gias.uk
 DOMAIN,ehk1.cn2gias.uk
-# 天南小筑（推荐us or de）
-DOMAIN,us.nanflix.net
 # Ask(服务器在DE)
 DOMAIN,emby.711.lol
 DOMAIN-SUFFIX,asubaka.de
@@ -13,8 +11,6 @@ DOMAIN-SUFFIX,asubaka.de
 DOMAIN,gy.meowfly.de
 # 飞跃彩虹
 DOMAIN-SUFFIX,feiyue.lol
-# 见手青(德国)
-DOMAIN,jsq.vban.xyz
 # 星云
 DOMAIN-SUFFIX,nebula-media.org
 # 呆瓜
