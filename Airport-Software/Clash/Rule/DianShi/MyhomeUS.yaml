@@ -5,8 +5,6 @@ payload:
   - DOMAIN,ehk1.cn2gias.uk
   # 墨云阁
   - DOMAIN,m.mobaiemby.site
-  # 天南小筑
-  - DOMAIN,us.nanflix.net
   # Ask(服务器在DE)
   - DOMAIN,emby.711.lol
   - DOMAIN-SUFFIX,asubaka.de
@@ -14,8 +12,6 @@ payload:
   - DOMAIN,gy.meowfly.de
   # 飞跃彩虹
   - DOMAIN-SUFFIX,feiyue.lol
-  # 见手青
-  - DOMAIN,jsq.vban.xyz
   # 青鸟
   - DOMAIN,cdn.lyrebirdemby.com
   # Misty
