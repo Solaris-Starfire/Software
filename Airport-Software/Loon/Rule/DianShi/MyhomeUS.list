@@ -1,12 +1,6 @@
 # Author: Solaris-Starfire
 # 墨云阁
 DOMAIN,m.mobaiemby.site
-# 守候
-DOMAIN,emby.cn2gias.uk
-DOMAIN,ehk1.cn2gias.uk
-# Ask(服务器在DE)
-DOMAIN,emby.711.lol
-DOMAIN-SUFFIX,asubaka.de
 # 飞了个喵
 DOMAIN,gy.meowfly.de
 # 飞跃彩虹
@@ -33,8 +27,6 @@ DOMAIN,8s2hBG4.onyra.cc
 DOMAIN,emby.yamo.uk
 # Doubon
 DOMAIN,onatoshi.114514.quest
-# 守候公益
-DOMAIN,lite.cn2gias.uk
 # 硬看
 DOMAIN,emby.cancanbi.com
 # Shrek
