@@ -86,7 +86,7 @@ payload:
   # 临镜
   - DOMAIN,emby.liminalnet.com
   # 无界
-  - DOMAIN,emby.mjji.de
+  - DOMAIN,playz.mjji.de
   # SWIFT
   - DOMAIN,emby.swiftnet.wiki
   # 青瓦
