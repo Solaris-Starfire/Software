@@ -48,6 +48,7 @@ payload:
   - DOMAIN,lite.saturdayvideo.top
   # 飞跃地平线(69云)
   - DOMAIN,emby.69yun69.com
+  - DOMAIN,emby2.69yun69.com
   - DOMAIN,emby1.69yun69.com
   # 二次元
   - DOMAIN,media.nijigem.by
@@ -59,16 +60,11 @@ payload:
   - DOMAIN,eggtartemby.itsmyduty.top
   # AniSaga
   - DOMAIN,global-endpoint.anisaga.tv
-  # 入机
-  - DOMAIN-SUFFIX,xytx.org
-  - DOMAIN-SUFFIX,rjf37.com
   # 稳健
   - DOMAIN,emby.wenjian.de
   - DOMAIN-SUFFIX,sharepoint.com
   # YounoEmny
   - DOMAIN,emby.younoyes.com
-  # Coco
-  - DOMAIN,www.259772.xyz
   # Paul
   - DOMAIN,cf.imetyou.top
   # kiku
@@ -78,19 +74,12 @@ payload:
   # 影迹
   - DOMAIN,emby1.123456789.lol
   - DOMAIN,emby2.9900990.buzz
-  # MaYao
-  - DOMAIN,frre.me
-  - DOMAIN-SUFFIX,cat-eye.top
   # 片刻解说影视
   - DOMAIN,pieclip.okbap.com
   # 临镜
   - DOMAIN,emby.liminalnet.com
   # 无界
   - DOMAIN,playz.mjji.de
-  # SWIFT
-  - DOMAIN,emby.swiftnet.wiki
-  # 青瓦
-  - DOMAIN,emby.bluetile.cloud
   # 105
   - DOMAIN,ciallo.party
   # nyamedia
@@ -102,6 +91,7 @@ payload:
   - DOMAIN,sgsharon.cancanbi.com
   # 云海
   - DOMAIN,emby.oceancloud.asia
+  - DOMAIN,nsfw.oceancloud.asia
   # 卷毛鼠(69云)
   - DOMAIN,emby3.69yun69.com
   # 游骑兵
