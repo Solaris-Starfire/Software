@@ -7,9 +7,8 @@ payload:
   # Lily
   - DOMAIN,cdn.lilyemby.my
   - DOMAIN,tx.lilyemby.my
-  # SIESTA Pro
-  - DOMAIN,ck.siepro.uk
-  - DOMAIN,ar.siepro.uk
+  # SIESTA
+  - DOMAIN,w.abcj.uk
   # 影迹
   - IP-CIDR,129.146.108.37/32
   # Youno
