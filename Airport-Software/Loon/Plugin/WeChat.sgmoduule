@@ -86,7 +86,7 @@ USER-AGENT,WeChat*,{{{Proxy}}}
 IP-ASN,132203,{{{Proxy}}}, no-resolve
 
 [URL Rewrite]
-
+^https:\/\/webapi\.qmai\.cn\/web\/cmk-center\/marketing\/canvas\/advert-reach - reject
 
 [Body Rewrite]
 http-response-jq ^https:\/\/mcsp\.cloudpnr\.com\/api\/miniapp\/popular\/T_MINIAPP$ 'delpaths([["data"]])'
