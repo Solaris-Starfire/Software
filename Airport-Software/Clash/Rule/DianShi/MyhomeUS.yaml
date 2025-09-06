@@ -29,3 +29,6 @@ payload:
   - DOMAIN,public.shrekmedia.org
   # Msky
   - DOMAIN,cf.5msky.com
+  # UHD
+  - DOMAIN,v1.uhdnow.com
+  - DOMAIN,global.uhdnow.com
