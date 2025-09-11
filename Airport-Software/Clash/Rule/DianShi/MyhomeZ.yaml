@@ -7,8 +7,6 @@ payload:
   # Lily
   - DOMAIN,cdn.lilyemby.my
   - DOMAIN,tx.lilyemby.my
-  # SIESTA
-  - DOMAIN,w.abcj.uk
   # 影迹
   - IP-CIDR,129.146.108.37/32
   # Youno
@@ -18,4 +16,6 @@ payload:
   - DOMAIN,lum.clun.top
   - DOMAIN,ll.myhxgzw.fun
   - DOMAIN-SUFFIX,010004.xyz
+  # SaoDu-小登
+  - DOMAIN,saodu.asia
 
