@@ -45,6 +45,7 @@ payload:
   # SIESTA
   - DOMAIN,cf.abcj.uk
   - DOMAIN,cdn.abcj.uk
+  - DOMAIN,w.abcj.uk
   # Saturday.lite
   - DOMAIN,lite.saturdayvideo.top
   # 飞跃地平线(69云)
@@ -97,4 +98,5 @@ payload:
   - DOMAIN,emby3.69yun69.com
   # 游骑兵
   - DOMAIN,emby.heisi.org
-
+  # 琉璃门
+  - DOMAIN,emby.kongcheng666.dpdns.org
