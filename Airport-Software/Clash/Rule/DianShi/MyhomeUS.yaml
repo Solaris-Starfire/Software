@@ -32,3 +32,5 @@ payload:
   # UHD
   - DOMAIN,v1.uhdnow.com
   - DOMAIN,global.uhdnow.com
+  # 荷兰服务器
+  - DOMAIN,ichinosekotomi.191920.xyz
