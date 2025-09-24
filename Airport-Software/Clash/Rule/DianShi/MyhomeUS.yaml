@@ -38,3 +38,5 @@ payload:
   - DOMAIN,cf.abcj.uk
   - DOMAIN,cdn.abcj.uk
   - DOMAIN,w.abcj.uk
+  # Saturday.lite
+  - DOMAIN,lite.saturdayvideo.top
