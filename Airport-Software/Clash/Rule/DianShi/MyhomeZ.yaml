@@ -19,4 +19,6 @@ payload:
   - DOMAIN-SUFFIX,010004.xyz
   # SaoDu-小登
   - DOMAIN,saodu.asia
+  # 青鸟
+  - DOMAIN,cdn.2580852.xyz
 
