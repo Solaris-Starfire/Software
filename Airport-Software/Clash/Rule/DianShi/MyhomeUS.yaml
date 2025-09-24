@@ -34,3 +34,7 @@ payload:
   - DOMAIN,global.uhdnow.com
   # 荷兰服务器
   - DOMAIN,ichinosekotomi.191920.xyz
+  # SIESTA
+  - DOMAIN,cf.abcj.uk
+  - DOMAIN,cdn.abcj.uk
+  - DOMAIN,w.abcj.uk
