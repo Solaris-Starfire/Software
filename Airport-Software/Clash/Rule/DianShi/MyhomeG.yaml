@@ -35,7 +35,7 @@ payload:
   # 非越
   - DOMAIN-SUFFIX,sfcj.org
   # 月饼
-  - DOMAIN-SUFFIX,emby.my
+  - DOMAIN,emby.my
   - DOMAIN,cftest1.mobai.sbs
   # 极光
   - DOMAIN,ad.auroramedia.vip  
