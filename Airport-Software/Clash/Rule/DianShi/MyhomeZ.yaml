@@ -25,4 +25,6 @@ payload:
   - DOMAIN,cdn.2580852.xyz
   # 临境
   - DOMAIN,cdn.liminalnet.site
+  # 月饼
+  - DOMAIN,a.emby.my
 
