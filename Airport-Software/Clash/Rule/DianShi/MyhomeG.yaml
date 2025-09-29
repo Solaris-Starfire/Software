@@ -95,3 +95,6 @@ payload:
   - DOMAIN,emby.heisi.org
   # 琉璃门
   - DOMAIN,emby.kongcheng666.dpdns.org
+  # 西瓜
+  - DOMAIN,emby.chilledmelon.com
+  - DOMAIN,mr.chilledmelon.com
