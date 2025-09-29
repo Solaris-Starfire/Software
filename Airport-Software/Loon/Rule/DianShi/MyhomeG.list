@@ -4,8 +4,6 @@ DOMAIN-SUFFIX,pilipiliultra.com
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
-# 卡戎
-DOMAIN,play.charontv.com
 # 纸片人
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN,gd.9521732.xyz
@@ -54,9 +52,6 @@ DOMAIN,cf.imetyou.top
 DOMAIN-SUFFIX,ucloudhost.top
 # Pornemby
 DOMAIN,pornemby.com
-# 入机emby
-DOMAIN-SUFFIX,xytx.org
-DOMAIN-SUFFIX,rjf37.com
 # 影迹
 DOMAIN,emby1.123456789.lol
 DOMAIN,emby2.9900990.buzz
@@ -100,5 +95,6 @@ DOMAIN,emby.oceancloud.asia
 DOMAIN,emby3.69yun69.com
 # 琉璃门
 DOMAIN,emby.kongcheng666.dpdns.org
-
-
+# 西瓜
+DOMAIN,emby.chilledmelon.com
+DOMAIN,mr.chilledmelon.com
