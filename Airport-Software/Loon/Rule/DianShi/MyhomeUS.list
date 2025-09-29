@@ -7,8 +7,9 @@ DOMAIN,gy.meowfly.de
 DOMAIN-SUFFIX,feiyue.lol
 # 星云
 DOMAIN-SUFFIX,nebula-media.org
-# 呆瓜
-DOMAIN-SUFFIX,chilledmelon.com
+# 西瓜
+DOMAIN,rn.chilledmelon.com
+DOMAIN,daigua.chilledmelon.com
 # SaturDayLite
 DOMAIN,lite.saturdayvideo.top
 # Misty
