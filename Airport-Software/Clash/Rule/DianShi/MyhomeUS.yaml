@@ -14,8 +14,9 @@ payload:
   - DOMAIN,free.28.al
   # 星云
   - DOMAIN-SUFFIX,nebula-media.org
-  # 呆瓜
-  - DOMAIN-SUFFIX,chilledmelon.com
+  # 西瓜
+  - DOMAIN,rn.chilledmelon.com
+  - DOMAIN,daigua.chilledmelon.com
   # Preju
   - DOMAIN-SUFFIX,1l1.icu
   # Onyra
