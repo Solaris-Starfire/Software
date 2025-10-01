@@ -19,9 +19,6 @@ payload:
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
   - DOMAIN-SUFFIX,carryz.net
-  # Lily
-  - DOMAIN,cf.lilyemby.my
-  - DOMAIN,jp.lilyemby.my
   # 叔服
   - DOMAIN,emby3.mcjoker.xyz
   # 飞跃银河
