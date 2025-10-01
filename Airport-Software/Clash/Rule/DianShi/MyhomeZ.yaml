@@ -27,4 +27,6 @@ payload:
   - DOMAIN,cdn.liminalnet.site
   # 月饼
   - DOMAIN,a.emby.my
+  # 星星私服
+  - DOMAIN,yykx.5670320.xyz
 
