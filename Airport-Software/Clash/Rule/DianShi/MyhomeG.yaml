@@ -23,8 +23,6 @@ payload:
   - DOMAIN,emby3.mcjoker.xyz
   # 飞跃银河
   - DOMAIN,yhemby.top
-  # Peach
-  - DOMAIN-SUFFIX,embymv.link
   # 放映厅
   - DOMAIN,emby.9191001.xyz
   # 探花TV
