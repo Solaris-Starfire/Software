@@ -43,3 +43,5 @@ payload:
   - DOMAIN,lite.saturdayvideo.top
   # Lily
   - DOMAIN,www.lilyemby.my
+  # Peach
+  - DOMAIN-SUFFIX,embymv.link
