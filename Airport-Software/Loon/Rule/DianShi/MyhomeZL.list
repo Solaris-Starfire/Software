@@ -29,7 +29,7 @@ DOMAIN,a.emby.my
 # 星星私服
 DOMAIN,yykx.5670320.xyz
 # Nya
-DOMAIN,emby.bangumi.ca
+DOMAIN-SUFFIX,emby.bangumi.ca
 # 二次元
 DOMAIN,media.nijigem.by
 DOMAIN,default.cdn.bgp.yt
