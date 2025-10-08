@@ -35,7 +35,7 @@ payload:
   # 极光
   - DOMAIN,ad.auroramedia.vip  
   # Hka
-  - DOMAIN,hka-emby3.aliz.work
+  - DOMAIN,hka-emby.aliz.work
   # 惊蛰
   - DOMAIN-SUFFIX,jingzhe.pro
   # 飞跃地平线(69云)
