@@ -85,4 +85,6 @@ payload:
   # 西瓜
   - DOMAIN,emby.chilledmelon.com
   - DOMAIN,mr.chilledmelon.com
+  # 一之濑琴美的电视台
+  - DOMAIN,emby.191920.xyz
 
