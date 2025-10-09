@@ -45,3 +45,6 @@ payload:
   - DOMAIN,www.lilyemby.my
   # Peach
   - DOMAIN-SUFFIX,embymv.link
+  # Onyra
+  - DOMAIN,bps8m.onyra.cc
+  - DOMAIN,stream.onyra.uk
