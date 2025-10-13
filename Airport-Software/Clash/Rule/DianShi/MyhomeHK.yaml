@@ -84,4 +84,6 @@ payload:
   - DOMAIN,mr.chilledmelon.com
   # 一之濑琴美的电视台
   - DOMAIN,emby.191920.xyz
+  # 肥牛
+  - DOMAIN,test.feiniu.lol
 
