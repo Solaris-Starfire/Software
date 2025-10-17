@@ -1,37 +1,30 @@
 payload:
-  # Author: Solaris-Starfire
-  # Robo
+  # Ro-bo
   - DOMAIN,vip.roboemby.de
   - DOMAIN,robo.616626.xyz
   - DOMAIN,kan.roboemby.de
   - DOMAIN,media-sxty-fy-home01.sx3oss.ctyunxs.cn
-  # Lily
+  # Li-ly
   - DOMAIN,cdn.lilyemby.my
   - DOMAIN,tx.lilyemby.my
-  # 影迹
-  - IP-CIDR,129.146.108.37/32
-  # Youno
+  # You-no
   - DOMAIN,jp.younoyes.com
   - DOMAIN,us.younoyes.com
-  # Levilde Luminia
+  # LL
   - DOMAIN,lum.clun.top
   - DOMAIN,ll.myhxgzw.fun
   - DOMAIN,ll.892818.xyz
   - DOMAIN,lum-ru.clun.top
   - DOMAIN-SUFFIX,010004.xyz
-  # SaoDu-小登
-  - DOMAIN,saodu.asia
-  # 青鸟
+  # QingNiao
   - DOMAIN,cdn.2580852.xyz
-  # 临境
+  # LinJing
   - DOMAIN,cdn.liminalnet.site
-  # 月饼
+  # Moon
   - DOMAIN,a.emby.my
-  # 星星私服
-  - DOMAIN,yykx.5670320.xyz
-  # nyamedia
+  # n-y-a
   - DOMAIN-SUFFIX,emby.bangumi.ca
-  # 二次元
+  # ErCiYuan
   - DOMAIN,media.nijigem.by
   - DOMAIN,default.cdn.bgp.yt
   - DOMAIN,ct.cdn.bgp.yt
