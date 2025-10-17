@@ -1,17 +1,17 @@
 payload:
-  # 见手青
+  # JianShouQing
   - DOMAIN,jsq.vban.xyz
-  # 天南小筑
+  # TianNan
   - DOMAIN,us.nanflix.net
-  # Ask(服务器在DE)
+  # A-s-k(服务器在DE)
   - DOMAIN,emby.711.lol
   - DOMAIN-SUFFIX,asubaka.de
-  # 守候
+  # ShouHou
   - DOMAIN,emby.cn2gias.uk
   - DOMAIN,ehk1.cn2gias.uk
-  # 守候公益
+  # ShouHouGongYi
   - DOMAIN,lite.cn2gias.uk
-  # 硬看
+  # YingKan
   - DOMAIN,emby.cancanbi.com
-  # 西瓜
+  # XiGua
   - DOMAIN,fra.chilledmelon.com
