@@ -1,89 +1,77 @@
 payload:
-  # Author: Solaris-Starfire
-  # PiliPili
+  # P
   - DOMAIN-SUFFIX,pilipiliultra.com
   - DOMAIN,pili.994959.xyz
   - DOMAIN,caddy.pilipili.me
   - DOMAIN,vn.pili.im
-  # 终点站
+  # ZhongDian
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,term.wtf
-  # 卡戎
-  - DOMAIN,play.charontv.com
-  # 纸片人
+  # ZhiPianRen
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN,gd.9521732.xyz
   - DOMAIN,chirsemby.top
   - DOMAIN,emby.029902.xyz 
-  # CC
+  # C-C
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
   - DOMAIN-SUFFIX,carryz.net
-  # 叔服
+  # Shu
   - DOMAIN,emby3.mcjoker.xyz
-  # 飞跃银河
-  - DOMAIN,yhemby.top
-  # 放映厅
-  - DOMAIN,emby.9191001.xyz
-  # 探花TV
+  # TanHua
   - DOMAIN,tanhuatv.site  
-  # 非越
+  # FeiYue
   - DOMAIN-SUFFIX,sfcj.org
-  # 月饼
+  # Moon
   - DOMAIN,emby.my
-  - DOMAIN,cftest1.mobai.sbs
-  # 极光
-  - DOMAIN,ad.auroramedia.vip  
-  # Hka
+  - DOMAIN,cftest1.mobai.sbs  
+  # H-k-a
   - DOMAIN,hka-emby.aliz.work
-  # 惊蛰
+  # JingZhe
   - DOMAIN-SUFFIX,jingzhe.pro
-  # 飞跃地平线(69云)
+  # 69云
   - DOMAIN,emby.69yun69.com
   - DOMAIN,emby2.69yun69.com
   - DOMAIN,emby1.69yun69.com
-  # Levilde Luminia
+  # LL
   - DOMAIN,eggtartemby.itsmyduty.top
   # AniSaga
   - DOMAIN,global-endpoint.anisaga.tv
-  # 稳健
+  # WenJian
   - DOMAIN,emby.wenjian.de
   - DOMAIN-SUFFIX,sharepoint.com
-  # YounoEmny
+  # You-no
   - DOMAIN,emby.younoyes.com
-  # Paul
+  # P-a-u-l
   - DOMAIN,cf.imetyou.top
-  # kiku
+  # ki-ku
   - DOMAIN-SUFFIX,ucloudhost.top
   # Pornemby
   - DOMAIN,pornemby.com
-  # 影迹
-  - DOMAIN,emby1.123456789.lol
-  - DOMAIN,emby2.9900990.buzz
-  # 片刻解说影视
+  # PianKe
   - DOMAIN,pieclip.okbap.com
-  # 临镜
+  # LinJing
   - DOMAIN,emby.liminalnet.com
-  # 无界
+  # WuJie
   - DOMAIN,playz.mjji.de
   # 105
   - DOMAIN,ciallo.party
-  # 硬看
+  # YingKan
   - DOMAIN,sgsharon.cancanbi.com
-  # 云海
+  # YunHai
   - DOMAIN,emby.oceancloud.asia
   - DOMAIN,nsfw.oceancloud.asia
-  # 卷毛鼠(69云)
+  # JuanMaoShu(69云)
   - DOMAIN,emby3.69yun69.com
-  # 游骑兵
+  # YouQiBing
   - DOMAIN,emby.heisi.org
-  # 琉璃门
+  # LiuLiMen
   - DOMAIN,emby.kongcheng666.dpdns.org
-  # 西瓜
+  # XiGua
   - DOMAIN,emby.chilledmelon.com
   - DOMAIN,mr.chilledmelon.com
-  # 一之濑琴美的电视台
+  # 一之濑
   - DOMAIN,emby.191920.xyz
-  # 肥牛
+  # FeiNiu
   - DOMAIN,test.feiniu.lol
 
