@@ -1,53 +1,50 @@
 payload:
-  # Author: Solaris-Starfire
-  # 墨云阁
+  # MoYunGe
   - DOMAIN,m.mobaiemby.site
-  # 飞了个喵
+  # FeiLeGeMiao
   - DOMAIN,gy.meowfly.de
-  # 飞跃彩虹
+  # FeiYueCaiHong
   - DOMAIN-SUFFIX,feiyue.lol
-  # 青鸟
+  # QingNiao
   - DOMAIN,cdn.lyrebirdemby.com
-  # Misty
+  # Mis-ty
   - DOMAIN,misty.cx
-  # 起点站(公益)
+  # QiDian
   - DOMAIN,free.28.al
-  # 星云
+  # XingYun
   - DOMAIN-SUFFIX,nebula-media.org
-  # 西瓜
+  # XiGua
   - DOMAIN,rn.chilledmelon.com
   - DOMAIN,daigua.chilledmelon.com
   # Preju
   - DOMAIN-SUFFIX,1l1.icu
-  # Onyra
+  # Ony-ra
   - DOMAIN,8s2hBG4.onyra.cc
   - DOMAIN,stream10086.onyra.uk
-  # Yomo
+  # Yo-mo
   - DOMAIN,emby.yamo.uk
-  # Doubon
+  # Dou-bon
   - DOMAIN,onatoshi.114514.quest
-  # Shrek
+  # Shr-ek
   - DOMAIN,public.shrekmedia.org
-  # Msky
+  # Ms-ky
   - DOMAIN,cf.5msky.com
   # UHD
   - DOMAIN,v1.uhdnow.com
   - DOMAIN,global.uhdnow.com
-  # 荷兰服务器
-  - DOMAIN,ichinosekotomi.191920.xyz
-  # SIESTA
+  # SIE-STA
   - DOMAIN,cf.abcj.uk
   - DOMAIN,cdn.abcj.uk
   - DOMAIN,w.abcj.uk
-  # Saturday.lite
+  # Satur-day
   - DOMAIN,lite.saturdayvideo.top
-  # Lily
+  # Li-ly
   - DOMAIN,www.lilyemby.my
-  # Peach
+  # 桃子
   - DOMAIN-SUFFIX,embymv.link
-  # Onyra
+  # Ony-ra
   - DOMAIN,bps8m.onyra.cc
   - DOMAIN,stream.onyra.uk
-  # 結束
+  # 結束了
   - DOMAIN,kessoku-bando.biliblili.uk
   - DOMAIN,streaming.biliblili.uk
