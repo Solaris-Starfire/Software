@@ -1,9 +1,4 @@
 payload:
-  # P
-  - DOMAIN-SUFFIX,pilipiliultra.com
-  - DOMAIN,pili.994959.xyz
-  - DOMAIN,caddy.pilipili.me
-  - DOMAIN,vn.pili.im
   # ZhongDian
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,term.wtf
