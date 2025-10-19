@@ -1,4 +1,9 @@
 payload:
+  # P
+  - DOMAIN-SUFFIX,pilipiliultra.com
+  - DOMAIN,pili.994959.xyz
+  - DOMAIN,caddy.pilipili.me
+  - DOMAIN,vn.pili.im
   # MoYunGe
   - DOMAIN,m.mobaiemby.site
   # FeiLeGeMiao
