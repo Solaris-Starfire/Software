@@ -65,8 +65,6 @@ payload:
   # XiGua
   - DOMAIN,emby.chilledmelon.com
   - DOMAIN,mr.chilledmelon.com
-  # 一之濑
-  - DOMAIN,emby.191920.xyz
   # FeiNiu
   - DOMAIN,test.feiniu.lol
 
