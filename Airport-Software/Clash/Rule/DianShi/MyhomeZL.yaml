@@ -30,4 +30,7 @@ payload:
   - DOMAIN,ct.cdn.bgp.yt
   - DOMAIN,us-w.cdn.bgp.yt
   - DOMAIN,cu.cdn.bgp.yt
+  # iris
+  - DOMAIN,luodai.irisnb.com
+  - DOMAIN,johnisbest.irisnb.com
 
