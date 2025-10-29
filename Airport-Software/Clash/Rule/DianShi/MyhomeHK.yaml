@@ -70,4 +70,6 @@ payload:
   # 紫罗兰
   - DOMAIN,emby.violet.run
   - DOMAIN,violet.5203166.xyz
+  # iris
+  - DOMAIN,iris.niceduck.lol
 
