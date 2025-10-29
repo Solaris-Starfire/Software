@@ -55,3 +55,7 @@ payload:
   - DOMAIN,streaming.biliblili.uk
   # 肥牛
   - DOMAIN,emby.feiniu.lol
+  # iris
+  - DOMAIN,ustream.irisnb.com
+  - DOMAIN,iris4837.5203166.xyz
+  - DOMAIN,irisus.5203166.xyz
