@@ -43,8 +43,6 @@ payload:
   - DOMAIN,w.abcj.uk
   # Satur-day
   - DOMAIN,lite.saturdayvideo.top
-  # 桃子
-  - DOMAIN-SUFFIX,embymv.link
   # Ony-ra
   - DOMAIN,bps8m.onyra.cc
   - DOMAIN,stream.onyra.uk
