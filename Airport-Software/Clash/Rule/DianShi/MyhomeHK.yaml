@@ -74,4 +74,6 @@ payload:
   - DOMAIN,iris.niceduck.lol
   # Li-ly
   - DOMAIN,www.lilyemby.my
+  # 桃子
+  - DOMAIN-SUFFIX,embymv.link
 
