@@ -43,8 +43,6 @@ payload:
   - DOMAIN,w.abcj.uk
   # Satur-day
   - DOMAIN,lite.saturdayvideo.top
-  # Li-ly
-  - DOMAIN,www.lilyemby.my
   # 桃子
   - DOMAIN-SUFFIX,embymv.link
   # Ony-ra
