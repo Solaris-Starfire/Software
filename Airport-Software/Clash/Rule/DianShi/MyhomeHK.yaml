@@ -76,4 +76,6 @@ payload:
   - DOMAIN,www.lilyemby.my
   # 桃子
   - DOMAIN-SUFFIX,embymv.link
+  # 临小境
+  - DOMAIN,lite.liminalnet.com
 
