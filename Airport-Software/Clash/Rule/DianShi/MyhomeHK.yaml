@@ -67,15 +67,13 @@ payload:
   - DOMAIN,mr.chilledmelon.com
   # FeiNiu
   - DOMAIN,test.feiniu.lol
-  # 紫罗兰
+  # 紫色的罗啊兰
   - DOMAIN,emby.violet.run
   - DOMAIN,violet.5203166.xyz
   # iris
   - DOMAIN,iris.niceduck.lol
   # Li-ly
   - DOMAIN,www.lilyemby.my
-  # 桃子
-  - DOMAIN-SUFFIX,embymv.link
-  # 临小境
+  # 临xiaojing
   - DOMAIN,lite.liminalnet.com
 
