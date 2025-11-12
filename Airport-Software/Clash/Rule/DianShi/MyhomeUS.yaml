@@ -4,17 +4,17 @@ payload:
   - DOMAIN,pili.994959.xyz
   - DOMAIN,caddy.pilipili.me
   - DOMAIN,vn.pili.im
-  # MoYunGe
+  # Mo-YunGe
   - DOMAIN,m.mobaiemby.site
-  # FeiLeGeMiao
+  # FeiLeGe-Miao
   - DOMAIN,gy.meowfly.de
-  # FeiYueCaiHong
+  # FeiYue-CaiHong
   - DOMAIN-SUFFIX,feiyue.lol
   # QingNiao
   - DOMAIN,cdn.lyrebirdemby.com
   # Mis-ty
   - DOMAIN,misty.cx
-  # QiDian
+  # Qi-Dian
   - DOMAIN,free.28.al
   # XingYun
   - DOMAIN-SUFFIX,nebula-media.org
@@ -46,7 +46,7 @@ payload:
   # Ony-ra
   - DOMAIN,bps8m.onyra.cc
   - DOMAIN,stream.onyra.uk
-  # 結束了
+  # 結束了的东西
   - DOMAIN,kessoku-bando.biliblili.uk
   - DOMAIN,streaming.biliblili.uk
   # 肥牛
@@ -55,3 +55,5 @@ payload:
   - DOMAIN,ustream.irisnb.com
   - DOMAIN,iris4837.5203166.xyz
   - DOMAIN,irisus.5203166.xyz
+  # 桃子
+  - DOMAIN-SUFFIX,embymv.link
