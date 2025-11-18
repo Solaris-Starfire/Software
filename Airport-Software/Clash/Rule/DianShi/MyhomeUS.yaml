@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,feiyue.lol
   # QingNiao
   - DOMAIN,cdn.lyrebirdemby.com
-  # Mis-ty
+  # Mis
   - DOMAIN,misty.cx
   # Qi-Dian
   - DOMAIN,free.28.al
@@ -22,8 +22,6 @@ payload:
   # XiGua
   - DOMAIN,rn.chilledmelon.com
   - DOMAIN,daigua.chilledmelon.com
-  # Preju
-  - DOMAIN-SUFFIX,1l1.icu
   # Ony-ra
   - DOMAIN,8s2hBG4.onyra.cc
   - DOMAIN,stream10086.onyra.uk
@@ -38,7 +36,7 @@ payload:
   # UHD
   - DOMAIN,v1.uhdnow.com
   - DOMAIN,global.uhdnow.com
-  # SIE-STA
+  # STA
   - DOMAIN,cf.abcj.uk
   - DOMAIN,cdn.abcj.uk
   - DOMAIN,w.abcj.uk
@@ -50,11 +48,11 @@ payload:
   # 結束了的东西
   - DOMAIN,kessoku-bando.biliblili.uk
   - DOMAIN,streaming.biliblili.uk
-  # 肥牛
+  # fen-n-iu
   - DOMAIN,emby.feiniu.lol
-  # iris
+  # ir
   - DOMAIN,ustream.irisnb.com
   - DOMAIN,iris4837.5203166.xyz
   - DOMAIN,irisus.5203166.xyz
-  # 桃子
+  # taozi
   - DOMAIN-SUFFIX,embymv.link
