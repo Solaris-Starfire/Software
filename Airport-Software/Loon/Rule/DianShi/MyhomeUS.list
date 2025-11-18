@@ -35,13 +35,11 @@ DOMAIN,cf.5msky.com
 # U-H-D 优先日本
 DOMAIN,v1.uhdnow.com
 DOMAIN,global.uhdnow.com
-# 荷兰服务器
-DOMAIN,ichinosekotomi.191920.xyz
-# SIESTA
+# STA
 DOMAIN,w.abcj.uk
 DOMAIN,cf.abcj.uk
 DOMAIN,cdn.abcj.uk
-# 結束
+# 結束了啊
 DOMAIN,kessoku-bando.biliblili.uk
 DOMAIN,streaming.biliblili.uk
 # 肥牛
