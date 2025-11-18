@@ -1,41 +1,31 @@
-# Robo
+# Ro
 DOMAIN,vip.roboemby.de
 DOMAIN,robo.616626.xyz
 DOMAIN,kan.roboemby.de
 DOMAIN,media-sxty-fy-home01.sx3oss.ctyunxs.cn
-# Lily
+# Li
 DOMAIN,cdn.lilyemby.my
 DOMAIN,tx.lilyemby.my
-# 影迹
-IP-CIDR,129.146.108.37/32
-# Youno
+# You--no
 DOMAIN,jp.younoyes.com
 DOMAIN,us.younoyes.com
-# Levilde Luminia
+# L-L
 DOMAIN,lum.clun.top
 DOMAIN,ll.myhxgzw.fun
 DOMAIN,ll.892818.xyz
 DOMAIN,lum-ru.clun.top
 DOMAIN-SUFFIX,010004.xyz
-# SaoDu-小登
-DOMAIN,saodu.asia
-# 青鸟
-DOMAIN,cdn.2580852.xyz
-# 临境
-DOMAIN,cdn.liminalnet.site
-# 月饼
+# Moon
 DOMAIN,a.emby.my
-# 星星私服
-DOMAIN,yykx.5670320.xyz
-# Nya
+# N-y-a
 DOMAIN-SUFFIX,emby.bangumi.ca
-# 二次元
+# ei-ci-yuan
 DOMAIN,media.nijigem.by
 DOMAIN,default.cdn.bgp.yt
 DOMAIN,ct.cdn.bgp.yt
 DOMAIN,us-w.cdn.bgp.yt
 DOMAIN,cu.cdn.bgp.yt
-# iris
+# i-r-is
 DOMAIN,luodai.irisnb.com
 DOMAIN,johnisbest.irisnb.com
 
