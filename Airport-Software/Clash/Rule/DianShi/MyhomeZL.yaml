@@ -1,10 +1,10 @@
 payload:
-  # Ro-bo
+  # Ro
   - DOMAIN,vip.roboemby.de
   - DOMAIN,robo.616626.xyz
   - DOMAIN,kan.roboemby.de
   - DOMAIN,media-sxty-fy-home01.sx3oss.ctyunxs.cn
-  # Li-ly
+  # Li
   - DOMAIN,cdn.lilyemby.my
   - DOMAIN,tx.lilyemby.my
   # You-no
@@ -16,10 +16,6 @@ payload:
   - DOMAIN,ll.892818.xyz
   - DOMAIN,lum-ru.clun.top
   - DOMAIN-SUFFIX,010004.xyz
-  # QingNiao
-  - DOMAIN,cdn.2580852.xyz
-  # LinJing
-  - DOMAIN,cdn.liminalnet.site
   # Moon
   - DOMAIN,a.emby.my
   # n-y-a
@@ -30,7 +26,7 @@ payload:
   - DOMAIN,ct.cdn.bgp.yt
   - DOMAIN,us-w.cdn.bgp.yt
   - DOMAIN,cu.cdn.bgp.yt
-  # iris
+  # i_r-is
   - DOMAIN,luodai.irisnb.com
   - DOMAIN,johnisbest.irisnb.com
 
