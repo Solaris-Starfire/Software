@@ -29,4 +29,6 @@ payload:
   # i_r-is
   - DOMAIN,luodai.irisnb.com
   - DOMAIN,johnisbest.irisnb.com
+  # ZiSeLuoLan
+  - DOMAIN,46.3.109.178/32
 
