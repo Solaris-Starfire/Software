@@ -28,4 +28,6 @@ DOMAIN,cu.cdn.bgp.yt
 # i-r-is
 DOMAIN,luodai.irisnb.com
 DOMAIN,johnisbest.irisnb.com
+# ZiseLuodeLan
+IP-CIDR,46.3.109.178/32
 
