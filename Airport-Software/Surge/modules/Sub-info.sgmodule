@@ -8,4 +8,4 @@
 多机场流量=script-name=MultiSub,update-interval=3600
 
 [Script]
-MultiSub=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info-Multi.js,script-update-interval=0,argument=icon={{{ICON}}}&color={{{COLOR}}}&name1={{{NAME1}}}&url1={{{URL1}}}&reset_day1={{{RESET_DAY1}}}&name2={{{NAME2}}}&url2={{{URL2}}}&reset_day2={{{RESET_DAY2}}}&name3={{{NAME3}}}&url3={{{URL3}}}&reset_day3={{{RESET_DAY3}}}
+MultiSub=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Solaris-Starfire/Software/main/Airport-Software/Surge/modules/Sub-info.js,script-update-interval=0,argument=icon={{{ICON}}}&color={{{COLOR}}}&name1={{{NAME1}}}&url1={{{URL1}}}&reset_day1={{{RESET_DAY1}}}&name2={{{NAME2}}}&url2={{{URL2}}}&reset_day2={{{RESET_DAY2}}}&name3={{{NAME3}}}&url3={{{URL3}}}&reset_day3={{{RESET_DAY3}}}
