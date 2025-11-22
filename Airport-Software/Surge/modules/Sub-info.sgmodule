@@ -18,5 +18,5 @@
 # {{{NAME}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Solaris-Starfire/Software/main/Airport-Software/Surge/modules/Sub-info.js,script-update-interval=0,argument=url={{{URL}}}&reset_day={{{RESET_Day}}}&title={{{NAME}}}&icon={{{ICON}}}&color={{{COLOR}}}
 # {{{NAME01}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL01}}}&reset_day={{{RESET_Day01}}}&title={{{NAME01}}}&icon={{{ICON01}}}&color={{{COLOR01}}}
 # {{{NAME02}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL02}}}&reset_day={{{RESET_Day02}}}&title={{{NAME02}}}&icon={{{ICON02}}}&color={{{COLOR02}}}
-机场流量信息=type=generic,timeout=15,script-path=https://raw.githubusercontent.com/yourusername/yourrepo/main/Sub-info-multi-dynamic.js,script-update-interval=0,argument={{arguments}}
+机场流量信息=type=generic,timeout=15,script-path=https://raw.githubusercontent.com/Solaris-Starfire/Software/main/Airport-Software/Surge/modules/Sub-info.js,script-update-interval=0,argument={{arguments}}
 
