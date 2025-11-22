@@ -135,13 +135,12 @@ function formatTime(time) {
 */
 
 
-
 /*
- * 多机场流量显示脚本（动态节点数量，标题显示剩余百分比）
- * 版本：1.2
+ * 多机场流量显示脚本（动态节点数量，适配 RESET_Dayx 命名）
+ * 版本：5.0
  * 更新日期：2025.11.22
  * 参数格式：
- * NAMEx, URLx, RESETx, EXPIREx, ICONx, COLORx
+ * NAMEx, URLx, RESET_Dayx, EXPIREx, ICONx, COLORx
  * x = 1,2,3,... 动态可扩展
  */
 
@@ -194,7 +193,7 @@ function getArgs() {
   );
 }
 
-// 动态获取节点信息
+// 动态获取节点信息，适配 RESET_Dayx
 function getDynamicNodes(args) {
   let nodes = [];
   for (let key in args) {
@@ -205,7 +204,7 @@ function getDynamicNodes(args) {
         nodes.push({
           name: args[`NAME${i}`],
           url: args[`URL${i}`],
-          reset: args[`RESET${i}`],
+          reset: args[`RESET_Day${i}`], // 修改这里
           expire: args[`EXPIRE${i}`],
           icon: args[`ICON${i}`],
           color: args[`COLOR${i}`]
@@ -290,3 +289,7 @@ function formatTime(time) {
   let day = dateObj.getDate();
   return year + "年" + month + "月" + day + "日";
 }
+
+
+
+
