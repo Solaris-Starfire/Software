@@ -1,54 +1,23 @@
 #!name=机场流量信息（5 个）
-#!desc=显示多个机场剩余流量信息以及套餐到期日期
+#!desc=显示 5 个机场剩余流量信息与套餐到期日期
 #!category=机场流量信息
-#!arguments=
-NAME1:机场1名字
-URL1:
-RESET1:
-ICON1:externaldrive.fill.badge.icloud
-COLOR1:#FFB6C1
-
-NAME2:机场2名字
-URL2:
-RESET2:
-ICON2:externaldrive.fill.badge.icloud
-COLOR2:#FF9500
-
-NAME3:机场3名字
-URL3:
-RESET3:
-ICON3:externaldrive.fill.badge.icloud
-COLOR3:#34C759
-
-NAME4:机场4名字
-URL4:
-RESET4:
-ICON4:externaldrive.fill.badge.icloud
-COLOR4:#AF52DE
-
-NAME5:机场5名字
-URL5:
-RESET5:
-ICON5:externaldrive.fill.badge.icloud
-COLOR5:#FF2D55
-
 #!arguments-desc=
 每个机场需要填写名称、订阅 URL（编码后的）、重置日、图标和颜色
 
 [Panel]
-{{{NAME1}}}=script-name={{{NAME1}}},update-interval=3600
-{{{NAME2}}}=script-name={{{NAME2}}},update-interval=3600
-{{{NAME3}}}=script-name={{{NAME3}}},update-interval=3600
-{{{NAME4}}}=script-name={{{NAME4}}},update-interval=3600
-{{{NAME5}}}=script-name={{{NAME5}}},update-interval=3600
+NAME1=script-name=NAME1,update-interval=3600
+NAME2=script-name=NAME2,update-interval=3600
+NAME3=script-name=NAME3,update-interval=3600
+NAME4=script-name=NAME4,update-interval=3600
+NAME5=script-name=NAME5,update-interval=3600
 
 [Script]
-{{{NAME1}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL1}}}&reset_day={{{RESET1}}}&title={{{NAME1}}}&icon={{{ICON1}}}&color={{{COLOR1}}}
+NAME1=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=&reset_day=&title=NAME1&icon=externaldrive.fill.badge.icloud&color=#FFB6C1
 
-{{{NAME2}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL2}}}&reset_day={{{RESET2}}}&title={{{NAME2}}}&icon={{{ICON2}}}&color={{{COLOR2}}}
+NAME2=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=&reset_day=&title=NAME2&icon=externaldrive.fill.badge.icloud&color=#FF9500
 
-{{{NAME3}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL3}}}&reset_day={{{RESET3}}}&title={{{NAME3}}}&icon={{{ICON3}}}&color={{{COLOR3}}}
+NAME3=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=&reset_day=&title=NAME3&icon=externaldrive.fill.badge.icloud&color=#34C759
 
-{{{NAME4}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL4}}}&reset_day={{{RESET4}}}&title={{{NAME4}}}&icon={{{ICON4}}}&color={{{COLOR4}}}
+NAME4=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=&reset_day=&title=NAME4&icon=externaldrive.fill.badge.icloud&color=#AF52DE
 
-{{{NAME5}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL5}}}&reset_day={{{RESET5}}}&title={{{NAME5}}}&icon={{{ICON5}}}&color={{{COLOR5}}}
+NAME5=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=&reset_day=&title=NAME5&icon=externaldrive.fill.badge.icloud&color=#FF2D55
