@@ -1,45 +1,52 @@
 /*
- * 由@mieqq编写
- * 原脚本地址：https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js
- * 由@Rabbit-Spec Key 修改
- * 更新日期：2023.02.20
- * 版本：1.6
-*/
+ * 多机场订阅流量信息 — Surge 面板 (Rabbit-Spec 多机场版)
+ * 支持：无限机场 URL
+ * 参数：nameX/urlX/reset_dayX
+ */
+
+let args = getArgs();
 
 (async () => {
-  let args = getArgs();
-  let info = await getDataInfo(args.url);
-  if (!info) $done();
-  let resetDayLeft = getRmainingDays(parseInt(args["reset_day"]));
+  let panels = [];
 
-  let used = info.download + info.upload;
-  let total = info.total;
-  let expire = args.expire || info.expire;
-  let content = [`已用：${toPercent(used, total)} \t|  剩余：${toMultiply(total, used)}`];
+  // 遍历所有 urlN 参数
+  let n = 1;
+  while (args[`url${n}`]) {
+    let url = args[`url${n}`];
+    let title = args[`name${n}`] || `机场${n}`;
+    let resetDay = args[`reset_day${n}`];
+    let expireArg = args[`expire${n}`];
 
-  if (resetDayLeft || expire) {
-    if (resetDayLeft && expire && expire !== "false") {
-      if (/^[\d.]+$/.test(expire)) expire *= 1000;
-      content.push(`重置：${resetDayLeft}天 \t|  ${formatTime(expire)}`);
-    } else if (resetDayLeft && !expire) {
-      content.push(`重置：${resetDayLeft}天`);
-    } else if (!resetDayLeft && expire) {
-      if (/^[\d.]+$/.test(expire)) expire *= 1000;
-      content.push(`到期：${formatTime(expire)}`);
+    let info = await getDataInfo(url);
+
+    if (info) {
+      let used = info.download + info.upload;
+      let total = info.total;
+      let expire = expireArg || info.expire;
+      let resetDayLeft = getRmainingDays(parseInt(resetDay));
+
+      let content = [`用量：${bytesToSize(used)} | ${bytesToSize(total)}`];
+
+      if (resetDayLeft) content.push(`重置：剩余 ${resetDayLeft} 天`);
+      if (expire && expire !== "false") {
+        if (/^[\d.]+$/.test(expire)) expire *= 1000;
+        content.push(`到期：${formatTime(expire)}`);
+      }
+
+      panels.push(`【${title}】\n${content.join("\n")}`);
     }
+
+    n++;
   }
 
   let now = new Date();
-  let hour = now.getHours();
-  let minutes = now.getMinutes();
-  hour = hour > 9 ? hour : "0" + hour;
-  minutes = minutes > 9 ? minutes : "0" + minutes;
+  let time = now.toTimeString().slice(0, 5);
 
   $done({
-    title: `${args.title} | ${bytesToSize(total)} | ${hour}:${minutes}`,
-    content: content.join("\n"),
-    icon: args.icon || "airplane.circle",
-    "icon-color": args.color || "#007aff",
+    title: `多机场流量 | ${time}`,
+    content: panels.join("\n\n——————————————\n\n"),
+    icon: args.icon || "externaldrive.fill.badge.icloud",
+    "icon-color": args.color || "#FFB6C1",
   });
 })();
 
@@ -47,110 +54,69 @@ function getArgs() {
   return Object.fromEntries(
     $argument
       .split("&")
-      .map((item) => item.split("="))
+      .map(it => it.split("="))
       .map(([k, v]) => [k, decodeURIComponent(v)])
   );
 }
 
 function getUserInfo(url) {
-  let request = { headers: { "User-Agent": "Quantumult%20X" }, url };
-  return new Promise((resolve, reject) =>
-    $httpClient.get(request, (err, resp) => {
-      if (err != null) {
-        reject(err);
-        return;
+  return new Promise((resolve, reject) => {
+    $httpClient.head(
+      {
+        url,
+        headers: { "User-Agent": "Quantumult%20X" }
+      },
+      (err, resp) => {
+        if (err) return reject(err);
+        if (resp.status !== 200) return reject(resp.status);
+
+        let header = Object.keys(resp.headers).find(k =>
+          k.toLowerCase() === "subscription-userinfo"
+        );
+
+        if (header) resolve(resp.headers[header]);
+        else reject("响应头不含流量信息");
       }
-      if (resp.status !== 200) {
-        reject(resp.status);
-        return;
-      }
-      let header = Object.keys(resp.headers).find((key) => key.toLowerCase() === "subscription-userinfo");
-      if (header) {
-        resolve(resp.headers[header]);
-        return;
-      }
-      reject("链接响应头不带有流量信息");
-    })
-  );
+    );
+  });
 }
 
 async function getDataInfo(url) {
   const [err, data] = await getUserInfo(url)
-    .then((data) => [null, data])
-    .catch((err) => [err, null]);
+    .then(data => [null, data])
+    .catch(err => [err, null]);
+
   if (err) {
     console.log(err);
     return;
   }
 
   return Object.fromEntries(
-    data
-      .match(/\w+=[\d.eE+]+/g)
-      .map((item) => item.split("="))
+    data.match(/\w+=[\d.eE+-]+/g)
+      .map(it => it.split("="))
       .map(([k, v]) => [k, Number(v)])
   );
 }
 
-function getRmainingDays(resetDay) {
-  if (!resetDay) return;
+function getRmainingDays(day) {
+  if (!day) return;
 
   let now = new Date();
   let today = now.getDate();
-  let month = now.getMonth();
-  let year = now.getFullYear();
-  let daysInMonth;
+  let daysInMonth = new Date(now.getFullYear(), now.getMonth() + 1, 0).getDate();
 
-  if (resetDay > today) {
-    daysInMonth = 0;
-  } else {
-    daysInMonth = new Date(year, month + 1, 0).getDate();
-  }
-
-  return daysInMonth - today + resetDay;
+  return day > today ? day - today : daysInMonth - today + day;
 }
 
 function bytesToSize(bytes) {
   if (bytes === 0) return "0B";
   let k = 1024;
-  sizes = ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"];
+  let sizes = ["B", "KB", "MB", "GB", "TB"];
   let i = Math.floor(Math.log(bytes) / Math.log(k));
   return (bytes / Math.pow(k, i)).toFixed(2) + " " + sizes[i];
 }
 
-function bytesToSizeNumber(bytes) {
-  if (bytes === 0) return "0";
-  let k = 1024;
-  let i = Math.floor(Math.log(bytes) / Math.log(k));
-  return (bytes / Math.pow(k, i)).toFixed(2);
-}
-
-function toPercent(num, total) {
-  return (Math.round((num / total) * 10000) / 100).toFixed(1) + "%";
-}
-
-
-function toMultiply(total, num) {
-  let totalDecimalLen, numDecimalLen, maxLen, multiple;
-  try {
-    totalDecimalLen = total.toString().split(".").length;
-  } catch (e) {
-    totalDecimalLen = 0;
-  }
-  try {
-    numDecimalLen = num.toString().split(".").length;
-  } catch (e) {
-    numDecimalLen = 0;
-  }
-  maxLen = Math.max(totalDecimalLen, numDecimalLen);
-  multiple = Math.pow(10, maxLen);
-  const numberSize = ((total * multiple - num * multiple) / multiple).toFixed(maxLen);
-  return bytesToSize(numberSize);
-}
-
 function formatTime(time) {
-  let dateObj = new Date(time);
-  let year = dateObj.getFullYear();
-  let month = dateObj.getMonth() + 1;
-  let day = dateObj.getDate();
-  return "到期：" + year + "." + month + "." + day + " ";
+  let d = new Date(time);
+  return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
 }
