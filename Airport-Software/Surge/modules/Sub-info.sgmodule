@@ -7,9 +7,9 @@
 # 版本：5.0
 
 [Panel]
-{{{NAME1}}}=script-name={{{NAME1}}},update-interval=3600
-{{{NAME2}}}=script-name={{{NAME2}}},update-interval=3600
-{{{NAME3}}}=script-name={{{NAME3}}},update-interval=3600
+{{{NAME1}}}=script-name={{{NAME1}}},update-interval=86400
+{{{NAME2}}}=script-name={{{NAME2}}},update-interval=86400
+{{{NAME3}}}=script-name={{{NAME3}}},update-interval=86400
 
 [Script]
 {{{NAME1}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Solaris-Starfire/Software/main/Airport-Software/Surge/modules/Sub-info.js,script-update-interval=0,argument=url={{{URL1}}}&reset_day={{{RESET_Day1}}}&title={{{NAME1}}}&icon={{{ICON1}}}&color={{{COLOR1}}}
