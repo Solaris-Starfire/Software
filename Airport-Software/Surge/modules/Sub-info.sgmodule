@@ -1,11 +1,52 @@
-#!name=多机场流量信息
-#!desc=显示多个机场流量用量与到期日期（Rabbit-Spec 多机场版）
-#!category=机场流量信息
-#!arguments=ICON:externaldrive.fill.badge.icloud,COLOR:#FFB6C1,NAME1:机场1,URL1:订阅1,RESET_DAY1:,NAME2:机场2,URL2:订阅2,RESET_DAY2:,NAME3:机场3,URL3:订阅3,RESET_DAY3:
-#!arguments-desc=[参数设置]\n\n⓵ URLX：请填写 URL 编码后的机场订阅链接。\n\n⓶ NAMEX：对应显示的机场名称。\n\n⓷ RESET_DAYX：流量每月重置日，可为空。\n\n⓸ ICON：面板图标。\n\n⓹ COLOR：ICON 颜色。\n\n可按需继续添加 NAME4 / URL4 / RESET_DAY4...
+#!name=机场流量信息（5个）
+#!desc=显示多个机场的流量与到期信息（共 5 个面板）
+#!category=机场
+#!arguments=
+NAME1:机场1名字,
+URL1:机场1订阅(需URL编码),
+RESET1:机场1重置日,
+ICON1:externaldrive.fill.badge.icloud,
+COLOR1:#007AFF,
+NAME2:机场2名字,
+URL2:机场2订阅(需URL编码),
+RESET2:机场2重置日,
+ICON2:externaldrive.fill.badge.icloud,
+COLOR2:#FF9500,
+NAME3:机场3名字,
+URL3:机场3订阅(需URL编码),
+RESET3:机场3重置日,
+ICON3:externaldrive.fill.badge.icloud,
+COLOR3:#34C759,
+NAME4:机场4名字,
+URL4:机场4订阅(需URL编码),
+RESET4:机场4重置日,
+ICON4:externaldrive.fill.badge.icloud,
+COLOR4:#AF52DE,
+NAME5:机场5名字,
+URL5:机场5订阅(需URL编码),
+RESET5:机场5重置日,
+ICON5:externaldrive.fill.badge.icloud,
+COLOR5:#FF2D55
+
+# 参数说明
+#!arguments-desc=
+支持 5 个机场。
+每个机场需提供：名称 / 编码后订阅 / 重置日 / 图标 / 颜色。
 
 [Panel]
-多机场流量=script-name=MultiSub,update-interval=3600
+{{{NAME1}}} = script-name={{NAME1}},update-interval=600
+{{{NAME2}}} = script-name={{NAME2}},update-interval=600
+{{{NAME3}}} = script-name={{NAME3}},update-interval=600
+{{{NAME4}}} = script-name={{NAME4}},update-interval=600
+{{{NAME5}}} = script-name={{NAME5}},update-interval=600
 
 [Script]
-MultiSub=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Solaris-Starfire/Software/main/Airport-Software/Surge/modules/Sub-info.js,script-update-interval=0,argument=icon={{{ICON}}}&color={{{COLOR}}}&name1={{{NAME1}}}&url1={{{URL1}}}&reset_day1={{{RESET_DAY1}}}&name2={{{NAME2}}}&url2={{{URL2}}}&reset_day2={{{RESET_DAY2}}}&name3={{{NAME3}}}&url3={{{URL3}}}&reset_day3={{{RESET_DAY3}}}
+{{{NAME1}}} = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Solaris-Starfire/Software/main/Airport-Software/Surge/modules/Sub-info.js,script-update-interval=0,argument=url={{{URL1}}}&reset_day={{{RESET1}}}&title={{{NAME1}}}&icon={{{ICON1}}}&color={{{COLOR1}}}
+
+{{{NAME2}}} = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Solaris-Starfire/Software/main/Airport-Software/Surge/modules/Sub-info.js,script-update-interval=0,argument=url={{{URL2}}}&reset_day={{{RESET2}}}&title={{{NAME2}}}&icon={{{ICON2}}}&color={{{COLOR2}}}
+
+{{{NAME3}}} = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Solaris-Starfire/Software/main/Airport-Software/Surge/modules/Sub-info.js,script-update-interval=0,argument=url={{{URL3}}}&reset_day={{{RESET3}}}&title={{{NAME3}}}&icon={{{ICON3}}}&color={{{COLOR3}}}
+
+{{{NAME4}}} = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Solaris-Starfire/Software/main/Airport-Software/Surge/modules/Sub-info.js,script-update-interval=0,argument=url={{{URL4}}}&reset_day={{{RESET4}}}&title={{{NAME4}}}&icon={{{ICON4}}}&color={{{COLOR4}}}
+
+{{{NAME5}}} = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Solaris-Starfire/Software/main/Airport-Software/Surge/modules/Sub-info.js,script-update-interval=0,argument=url={{{URL5}}}&reset_day={{{RESET5}}}&title={{{NAME5}}}&icon={{{ICON5}}}&color={{{COLOR5}}}
