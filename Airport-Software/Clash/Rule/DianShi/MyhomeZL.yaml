@@ -30,5 +30,7 @@ payload:
   - DOMAIN,luodai.irisnb.com
   - DOMAIN,johnisbest.irisnb.com
   # ZiSeLuoLan
+  - DOMAIN,cmcdn.fufuemby.top
+  - DOMAIN,violetcdn.fufuemby.top
   - IP-CIDR,46.3.109.178/32
 
