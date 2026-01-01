@@ -57,9 +57,5 @@ payload:
   # taozi
   - DOMAIN-SUFFIX,embymv.link
   # Ho-HaI  
-  - DOMAIN,emby.hohai.eu.org 
-  # tomorrow 
-  - DOMAIN,cdn.sexemby.com
- 
-  
+  - DOMAIN,emby.hohai.eu.org  
   
