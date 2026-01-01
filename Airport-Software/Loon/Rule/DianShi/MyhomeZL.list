@@ -32,5 +32,9 @@ DOMAIN,johnisbest.irisnb.com
 DOMAIN,cmcdn.fufuemby.top
 DOMAIN,violetcdn.fufuemby.top
 IP-CIDR,46.3.109.178/32
+# tomorrow
+DOMAIN,cdn.daobi.xyz
+DOMAIN-SUFFIX,jiedaibao.gs
+DOMAIN-SUFFIX,sexemby.com
 
 
