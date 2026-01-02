@@ -1,5 +1,4 @@
 /*
- * 由@mieqq编写
  * 原脚本地址：https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js
  * 修改：显示剩余流量 + 用量百分比
  * 更新日期：2025.11.22
